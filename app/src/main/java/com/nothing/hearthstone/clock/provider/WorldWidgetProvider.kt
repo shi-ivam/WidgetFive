@@ -18,6 +18,28 @@ class WorldWidgetProvider : AppWidgetProvider() {
         update(context, appWidgetManager, appWidgetId)
     }
 
+    override fun onReceive(context: Context, intent: Intent) {
+        super.onReceive(context, intent)
+        when (intent.action) {
+            Intent.ACTION_TIME_CHANGED,
+            Intent.ACTION_TIMEZONE_CHANGED,
+            Intent.ACTION_DATE_CHANGED -> {
+                val mgr = AppWidgetManager.getInstance(context)
+                val cn = android.content.ComponentName(context, WorldWidgetProvider::class.java)
+                val ids = mgr.getAppWidgetIds(cn)
+                for (id in ids) update(context, mgr, id)
+            }
+        }
+    }
+
+    override fun onDeleted(context: Context, appWidgetIds: IntArray) {
+        val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE).edit()
+        for (id in appWidgetIds) {
+            prefs.remove(simpleKey(id))
+        }
+        prefs.apply()
+    }
+
     private fun update(context: Context, appWidgetManager: AppWidgetManager, appWidgetId: Int) {
         val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
         val simple = prefs.getBoolean(simpleKey(appWidgetId), false)
@@ -41,6 +63,13 @@ class WorldWidgetProvider : AppWidgetProvider() {
         val intent = Intent(AlarmClock.ACTION_SHOW_ALARMS).apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK }
         val pi = android.app.PendingIntent.getActivity(context, appWidgetId, intent, android.app.PendingIntent.FLAG_UPDATE_CURRENT or android.app.PendingIntent.FLAG_IMMUTABLE)
         views.setOnClickPendingIntent(R.id.container, pi)
+        // Configure entry point on city label for quick relaunch of config
+        val cfgIntent = Intent(context, com.nothing.hearthstone.clock.ui.WorldClockConfigureActivity::class.java).apply {
+            flags = Intent.FLAG_ACTIVITY_NEW_TASK
+            putExtra(AppWidgetManager.EXTRA_APPWIDGET_ID, appWidgetId)
+        }
+        val cfgPi = android.app.PendingIntent.getActivity(context, appWidgetId + 1000, cfgIntent, android.app.PendingIntent.FLAG_UPDATE_CURRENT or android.app.PendingIntent.FLAG_IMMUTABLE)
+        try { views.setOnClickPendingIntent(R.id.location1, cfgPi) } catch (_: Exception) { }
         appWidgetManager.updateAppWidget(appWidgetId, views)
     }
 

@@ -19,10 +19,18 @@ class WorldClockConfigureActivity : AppCompatActivity() {
             ?: AppWidgetManager.INVALID_APPWIDGET_ID
         if (appWidgetId == AppWidgetManager.INVALID_APPWIDGET_ID) { finish(); return }
 
+        try { findViewById<android.widget.TextView>(R.id.setting_title).text = getString(R.string.world_clock_config_title) } catch (_: Exception) { }
+
         val prefs = getSharedPreferences(WorldWidgetProvider.PREFS, MODE_PRIVATE)
-        // default simple = false
-        prefs.edit().putBoolean(WorldWidgetProvider.simpleKey(appWidgetId), false).apply()
-        finishOk()
+
+        findViewById<androidx.cardview.widget.CardView>(R.id.analog_clock_style_bold).setOnClickListener {
+            prefs.edit().putBoolean(WorldWidgetProvider.simpleKey(appWidgetId), false).apply()
+            finishOk()
+        }
+        findViewById<androidx.cardview.widget.CardView>(R.id.analog_clock_style_scale).setOnClickListener {
+            prefs.edit().putBoolean(WorldWidgetProvider.simpleKey(appWidgetId), true).apply()
+            finishOk()
+        }
     }
 
     private fun finishOk() {
