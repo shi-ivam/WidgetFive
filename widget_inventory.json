@@ -1,0 +1,413 @@
+[
+  {
+    "id": 1,
+    "name": "Analog Clock",
+    "category": "Clock",
+    "provider_class": "com.nothing.hearthstone.clock.provider.AnalogWidgetProvider",
+    "authority": "com.nothing.hearthstone.authority.APP_CARD.analog_clock",
+    "layouts": [
+      "card_analog_clock_bold_1x1.xml",
+      "card_analog_clock_bold_2x2.xml",
+      "card_analog_clock_scale_1x1.xml",
+      "card_analog_clock_scale_2x2.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.clock.ui.AnalogClockConfigureActivity",
+    "description": "Analog clock with bold and scale face designs (1x1 and 2x2 sizes, simple and detailed views)."
+  },
+  {
+    "id": 2,
+    "name": "Digital Clock",
+    "category": "Clock",
+    "provider_class": "com.nothing.hearthstone.clock.provider.DigitalWidgetProvider",
+    "authority": "com.nothing.hearthstone.authority.APP_CARD.digital_clock",
+    "layouts": [
+      "card_digital_clock_1_by_1.xml",
+      "card_digital_clock_1_by_2.xml",
+      "card_digital_clock_2_by_1.xml"
+    ],
+    "configure_activity": null,
+    "description": "Digital clock with dot-matrix typography (1x1, 1x2, 2x1 sizes, normal and simple variants)."
+  },
+  {
+    "id": 3,
+    "name": "World Clock",
+    "category": "Clock",
+    "provider_class": "com.nothing.hearthstone.clock.provider.WorldWidgetProvider",
+    "authority": "com.nothing.hearthstone.authority.APP_CARD.world_clock",
+    "layouts": [
+      "card_world_clock_1x1.xml",
+      "card_world_clock_1x2.xml",
+      "card_world_clock_2x1.xml",
+      "card_world_clock_2x2.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.clock.ui.WorldClockConfigureActivity",
+    "description": "Dual and multi-timezone world clock with city search (1x1, 1x2, 2x1, 2x2 sizes)."
+  },
+  {
+    "id": 4,
+    "name": "QuickLook (Transparent)",
+    "category": "QuickLook",
+    "provider_class": "com.nothing.hearthstone.quicklook.QLTransparentWidgetProvider",
+    "authority": "com.nothing.hearthstone.authority.APP_CARD.ql_transparent",
+    "layouts": [
+      "card_date_14u_layout.xml",
+      "card_date_aod_14u_layout.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.quicklook.QuickLookSettingsActivity",
+    "description": "Glanceable weather, upcoming calendar events, and notifications with transparent background."
+  },
+  {
+    "id": 5,
+    "name": "QuickLook (Card Mode)",
+    "category": "QuickLook",
+    "provider_class": "com.nothing.hearthstone.quicklook.QLCardModeWidgetProvider",
+    "authority": "com.nothing.hearthstone.authority.APP_CARD.ql_card",
+    "layouts": [
+      "card_date_layout.xml",
+      "card_date_aod_layout.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.quicklook.QuickLookSettingsActivity",
+    "description": "Glanceable weather, upcoming calendar events, and notifications with solid card background."
+  },
+  {
+    "id": 6,
+    "name": "Photo Widget (Rectangle)",
+    "category": "Photo",
+    "provider_class": "com.nothing.hearthstone.photo.provider.PhotoWidgetRectangleProvider",
+    "authority": "com.nothing.hearthstone.authority.PHOTO.rectangle",
+    "layouts": [
+      "card_photo_rectangle_1x1.xml",
+      "card_photo_rectangle_2x1.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.photo.ui.RectanglePhotoSettingActivity",
+    "description": "Rounded rectangular frame photo showcase supporting single or carousel image rotation (1x1, 2x1)."
+  },
+  {
+    "id": 7,
+    "name": "Photo Widget (Circle)",
+    "category": "Photo",
+    "provider_class": "com.nothing.hearthstone.photo.provider.PhotoWidgetCircleProvider",
+    "authority": "com.nothing.hearthstone.authority.PHOTO.circle",
+    "layouts": [
+      "card_photo_circle_1x1.xml",
+      "card_photo_circle_2x1.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.photo.ui.CirclePhotoSettingActivity",
+    "description": "Circular crop photo showcase supporting gallery selection and framing (1x1, 2x1)."
+  },
+  {
+    "id": 8,
+    "name": "Compass (2x2)",
+    "category": "Compass",
+    "provider_class": "com.nothing.hearthstone.compass.CompassProvider",
+    "authority": "com.nothing.hearthstone.authority.compass",
+    "layouts": [
+      "widget_compass.xml",
+      "widget_compass_aod.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.compass.config.CompassSettingsActivity",
+    "description": "Full 2x2 interactive compass dial with heading degree, cardinal direction, and elevation."
+  },
+  {
+    "id": 9,
+    "name": "Small Compass (1x1)",
+    "category": "Compass",
+    "provider_class": "com.nothing.hearthstone.compass.provider.SmallCompassProvider",
+    "authority": "com.nothing.hearthstone.authority.compass.small",
+    "layouts": [
+      "widget_item_compass_1x1.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.compass.config.CompassSettingsActivity",
+    "description": "Minimal 1x1 compass indicator showing cardinal needle and current heading."
+  },
+  {
+    "id": 10,
+    "name": "Pedometer Main (2x2)",
+    "category": "Pedometer",
+    "provider_class": "com.nothing.hearthstone.pedometer.PedometerProvider",
+    "authority": "com.nothing.hearthstone.authority.pedometer",
+    "layouts": [
+      "widget_pedometer_plugin.xml",
+      "widget_pedometer_plugin_aod.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.pedometer.PedometerSettingsActivity",
+    "description": "Full 2x2 fitness tracker displaying daily step count, distance, calories, and progress ring."
+  },
+  {
+    "id": 11,
+    "name": "Pedometer Progress Card (2x1)",
+    "category": "Pedometer",
+    "provider_class": "com.nothing.hearthstone.pedometer.WidgetProgressProvider",
+    "authority": "com.nothing.hearthstone.authority.pedometer.progress",
+    "layouts": [
+      "widget_pedometer_progress_card.xml",
+      "widget_pedometer_progress_card_aod.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.pedometer.PedometerSettingsActivity",
+    "description": "2x1 compact progress widget showing circular step progress toward daily goal."
+  },
+  {
+    "id": 12,
+    "name": "Pedometer Daily Count Card (2x1)",
+    "category": "Pedometer",
+    "provider_class": "com.nothing.hearthstone.pedometer.WidgetDailyCountProvider",
+    "authority": "com.nothing.hearthstone.authority.pedometer.dailyCount",
+    "layouts": [
+      "widget_daily_count_card.xml",
+      "widget_daily_count_card_aod.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.pedometer.PedometerSettingsActivity",
+    "description": "2x1 numeric step card highlighting total daily steps taken."
+  },
+  {
+    "id": 13,
+    "name": "Pedometer Weekly Streak Card (2x1)",
+    "category": "Pedometer",
+    "provider_class": "com.nothing.hearthstone.pedometer.WidgetWeeklyStreakProvider",
+    "authority": "com.nothing.hearthstone.authority.pedometer.weeklyStreak",
+    "layouts": [
+      "widget_weekly_streak_card.xml",
+      "widget_weekly_streak_card_aod.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.pedometer.PedometerSettingsActivity",
+    "description": "2x1 7-day bar chart showing daily goal achievements and active streak."
+  },
+  {
+    "id": 14,
+    "name": "Community Widget",
+    "category": "Community",
+    "provider_class": "com.nothing.hearthstone.community.ui.CommunityWidgetProvider",
+    "authority": "com.nothing.hearthstone.authority.community",
+    "layouts": [
+      "widget_community_default.xml",
+      "widget_community_default_2x4.xml"
+    ],
+    "configure_activity": null,
+    "description": "Nothing Community updates, featured community posts, and announcements (2x2, 2x4)."
+  },
+  {
+    "id": 15,
+    "name": "Screen Time Main (2x2)",
+    "category": "Screen Time",
+    "provider_class": "com.nothing.hearthstone.screentime.provider.ScreenTimeProvider",
+    "authority": "com.nothing.hearthstone.authority.SCREEN_TIME",
+    "layouts": [
+      "widget_screen_time.xml",
+      "widget_screen_aod_time.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.screentime.ui.ScreenTimeSettingActivity",
+    "description": "2x2 digital wellbeing monitor showing app usage breakdown, total screen time, and unlock count."
+  },
+  {
+    "id": 16,
+    "name": "Screen Time Duration Card (2x1)",
+    "category": "Screen Time",
+    "provider_class": "com.nothing.hearthstone.screentime.provider.MiddleDurationScreenTimeProvider",
+    "authority": "com.nothing.hearthstone.authority.SCREEN_TIME_2_1_DURATION",
+    "layouts": [
+      "widget_screen_time_duration.xml",
+      "widget_screen_aod_time_duration.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.screentime.ui.ScreenTimeSettingActivity",
+    "description": "2x1 horizontal bar chart comparing today's screen time against average or limits."
+  },
+  {
+    "id": 17,
+    "name": "Screen Time Shape Card (2x1)",
+    "category": "Screen Time",
+    "provider_class": "com.nothing.hearthstone.screentime.provider.MiddleShapeScreenTimeProvider",
+    "authority": "com.nothing.hearthstone.authority.SCREEN_TIME_2_1_SHAPE",
+    "layouts": [
+      "widget_screen_time_shape.xml",
+      "widget_screen_aod_time_shape.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.screentime.ui.ScreenTimeSettingActivity",
+    "description": "2x1 geometric shape visualization that morphs based on screen time consumption."
+  },
+  {
+    "id": 18,
+    "name": "Screen Time Expression Card (1x1)",
+    "category": "Screen Time",
+    "provider_class": "com.nothing.hearthstone.screentime.provider.SmallScreenTimeProvider",
+    "authority": "com.nothing.hearthstone.authority.SCREEN_TIME_1_1_EXPRESSION",
+    "layouts": [
+      "widget_screen_time_expression.xml",
+      "widget_screen_aod_time_expression.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.screentime.ui.ScreenTimeSettingActivity",
+    "description": "1x1 emotional expression avatar (happy/neutral/tired) reflecting daily device usage levels."
+  },
+  {
+    "id": 19,
+    "name": "Focus Music (2x2)",
+    "category": "Scene Music",
+    "provider_class": "com.nothing.hearthstone.scenemusic.provider.FocusMusicProvider",
+    "authority": "com.nothing.hearthstone.authority.focus_music",
+    "layouts": [
+      "card_focus_music.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.scenemusic.ui.SceneMusicSettingsActivity",
+    "description": "Ambient generative soundscapes optimized for deep work, study, and focus (2x2)."
+  },
+  {
+    "id": 20,
+    "name": "Calm Rest Music (2x2)",
+    "category": "Scene Music",
+    "provider_class": "com.nothing.hearthstone.scenemusic.provider.CalmRestMusicProvider",
+    "authority": "com.nothing.hearthstone.authority.calm_rest",
+    "layouts": [
+      "card_calm_rest_music.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.scenemusic.ui.SceneMusicSettingsActivity",
+    "description": "Relaxing ambient audio synthesizer designed for meditation and breaks (2x2)."
+  },
+  {
+    "id": 21,
+    "name": "Sleep Music (2x2)",
+    "category": "Scene Music",
+    "provider_class": "com.nothing.hearthstone.scenemusic.provider.SleepMusicProvider",
+    "authority": "com.nothing.hearthstone.authority.sleep_music",
+    "layouts": [
+      "card_deep_sleep_music.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.scenemusic.ui.SceneMusicSettingsActivity",
+    "description": "Soothing white/pink noise and delta-wave sleep audio generator with sleep timer (2x2)."
+  },
+  {
+    "id": 22,
+    "name": "Date Card",
+    "category": "Date",
+    "provider_class": "com.nothing.hearthstone.date.provider.DateProvider",
+    "authority": "com.nothing.hearthstone.authority.DATE",
+    "layouts": [
+      "card_date_layout.xml",
+      "card_date_14u_layout.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.date.ui.DateSettingActivity",
+    "description": "Stylized date block with dot-matrix day/month numerals and upcoming agenda items."
+  },
+  {
+    "id": 23,
+    "name": "Media Player (2x2)",
+    "category": "Media Player",
+    "provider_class": "com.nothing.hearthstone.mediaplayer.business.MediaPlayerProvider",
+    "authority": "com.nothing.hearthstone.authority.APP_CARD.media_player",
+    "layouts": [
+      "card_media_player_2x2.xml"
+    ],
+    "configure_activity": null,
+    "description": "Interactive music/podcast media player with album artwork, playback controls, and track progress (2x2)."
+  },
+  {
+    "id": 24,
+    "name": "Battery (2x2)",
+    "category": "Battery",
+    "provider_class": "com.nothing.hearthstone.battery.business.BatteryProvider",
+    "authority": "com.nothing.hearthstone.authority.battery.big",
+    "layouts": [
+      "battery_container.xml",
+      "widget_battery_aod.xml"
+    ],
+    "configure_activity": null,
+    "description": "Multi-device power hub displaying phone battery and connected Bluetooth peripherals/Nothing Ear buds (2x2)."
+  },
+  {
+    "id": 25,
+    "name": "Small Battery (1x1)",
+    "category": "Battery",
+    "provider_class": "com.nothing.hearthstone.battery.business.SmallBatteryProvider",
+    "authority": "com.nothing.hearthstone.authority.battery.small",
+    "layouts": [
+      "battery_small_container.xml",
+      "widget_battery_1x1_aod.xml"
+    ],
+    "configure_activity": null,
+    "description": "Compact single gauge showing phone or selected device battery percentage (1x1)."
+  },
+  {
+    "id": 26,
+    "name": "ChatGPT Scrollable (2x2)",
+    "category": "ChatGPT",
+    "provider_class": "com.nothing.hearthstone.chatgpt.provider.GPTScrollableProvider",
+    "authority": "com.nothing.hearthstone.authority.chatgpt.scrollable",
+    "layouts": [
+      "widget_chatgpt_2x2_scrollable.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.chatgpt.ui.GPTScrollableConfigureActivity",
+    "description": "2x2 interactive AI prompt widget with scrollable conversation snippets and voice query launcher."
+  },
+  {
+    "id": 27,
+    "name": "ChatGPT Static",
+    "category": "ChatGPT",
+    "provider_class": "com.nothing.hearthstone.chatgpt.provider.GPTStaticProvider",
+    "authority": "com.nothing.hearthstone.authority.chatgpt.static",
+    "layouts": [
+      "widget_chatgpt_1x1.xml",
+      "widget_chatgpt_1x2.xml",
+      "widget_chatgpt_2x2.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.chatgpt.ui.GPTStaticConfigureActivity",
+    "description": "Quick launcher buttons for ChatGPT voice and text prompt inputs (1x1, 1x2, 2x2)."
+  },
+  {
+    "id": 28,
+    "name": "News Reporter (2x2)",
+    "category": "News",
+    "provider_class": "com.nothing.hearthstone.news.provider.NewsReporterProvider",
+    "authority": "com.nothing.hearthstone.authority.news",
+    "layouts": [
+      "widget_news_2x2.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.news.ui.NewsReporterSettingActivity",
+    "description": "Curated daily news summary and automated voice read-aloud widget (2x2)."
+  },
+  {
+    "id": 29,
+    "name": "Countdown Timer (2x2)",
+    "category": "Countdown",
+    "provider_class": "com.nothing.hearthstone.countdown.provider.CountdownProvider",
+    "authority": "com.nothing.hearthstone.authority.countdown",
+    "layouts": [
+      "card_countdown_2x2.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.countdown.ui.CountdownSettingActivity",
+    "description": "Event countdown timer tracking remaining days/hours/minutes to important milestone dates (2x2)."
+  },
+  {
+    "id": 30,
+    "name": "Breath - Relax (2x2)",
+    "category": "Breath",
+    "provider_class": "com.nothing.hearthstone.breath.provider.BreathRelaxProvider",
+    "authority": "com.nothing.hearthstone.authority.BREATH.relax",
+    "layouts": [
+      "card_breath_relax.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.breath.ui.BreathSettingActivity",
+    "description": "Guided relaxing breathing pattern widget with visual expanding/contracting lung animations (2x2)."
+  },
+  {
+    "id": 31,
+    "name": "Breath - Focus (2x2)",
+    "category": "Breath",
+    "provider_class": "com.nothing.hearthstone.breath.provider.BreathFocusProvider",
+    "authority": "com.nothing.hearthstone.authority.BREATH.focus",
+    "layouts": [
+      "card_breath_focus.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.breath.ui.BreathSettingActivity",
+    "description": "Guided box-breathing and focus pattern exercise widget (2x2)."
+  },
+  {
+    "id": 32,
+    "name": "Breath - Calm (2x2)",
+    "category": "Breath",
+    "provider_class": "com.nothing.hearthstone.breath.provider.BreathCalmProvider",
+    "authority": "com.nothing.hearthstone.authority.BREATH.calm",
+    "layouts": [
+      "card_breath_calm.xml"
+    ],
+    "configure_activity": "com.nothing.hearthstone.breath.ui.BreathSettingActivity",
+    "description": "Guided calming and heart-rate reduction breathing exercise widget (2x2)."
+  }
+]
