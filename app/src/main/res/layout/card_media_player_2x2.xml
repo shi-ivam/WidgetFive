@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nothing.cardwidget.mediaplayer.view.MediaPlayerContainerView android:id="@id/media_player_container" android:layout_width="match_parent" android:layout_height="match_parent" app:containerCornerRadius="52.6" app:guideNotifAuth="@string/media_player_no_notification_tip" app:openMusicTip="@string/media_player_no_music_process"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

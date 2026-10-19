@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/battery_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0">
+            <com.nothing.cardwidget.battery.view.BatteryCellView android:id="@id/battery_view_top_left" android:layout_width="70.0dp" android:layout_height="70.0dp" android:layout_marginTop="6.0dp" android:layout_marginBottom="3.0dp" android:layout_marginStart="6.0dp" android:layout_marginEnd="3.0dp" />
+            <com.nothing.cardwidget.battery.view.BatteryCellView android:id="@id/battery_view_top_right" android:layout_width="70.0dp" android:layout_height="70.0dp" android:layout_marginTop="6.0dp" android:layout_marginBottom="3.0dp" android:layout_marginStart="3.0dp" android:layout_marginEnd="6.0dp" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0">
+            <com.nothing.cardwidget.battery.view.BatteryCellView android:id="@id/battery_view_bottom_left" android:layout_width="70.0dp" android:layout_height="70.0dp" android:layout_marginTop="3.0dp" android:layout_marginBottom="6.0dp" android:layout_marginStart="6.0dp" android:layout_marginEnd="3.0dp" />
+            <com.nothing.cardwidget.battery.view.BatteryCellView android:id="@id/battery_view_bottom_right" android:layout_width="70.0dp" android:layout_height="70.0dp" android:layout_marginTop="3.0dp" android:layout_marginBottom="6.0dp" android:layout_marginStart="3.0dp" android:layout_marginEnd="6.0dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:gravity="end|bottom" android:layout_gravity="end|bottom" android:id="@id/tv_battery_level" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10.0dp" android:maxLines="1" android:includeFontPadding="false" android:layout_alignBottom="@id/battery_container" android:fontFamily="ndot" android:textAlignment="textEnd" android:layout_marginEnd="16.0dp" style="@style/BatteryLevelTextStyle" />
+    <TextView android:gravity="center" android:id="@id/tv_battery_permission" android:layout_width="match_parent" android:layout_height="match_parent" android:lines="2" android:fontFamily="ndot" android:textFontWeight="400" />
+</RelativeLayout>

@@ -58,4 +58,14 @@
     <attr name="progress" format="integer" />
     <attr name="progressColor" format="color|reference" />
     <attr name="trackColor" format="color|reference" />
+    <attr name="batteryLevelTvColor" format="color|reference" />
+    <attr name="chargingDrawable" format="reference" />
+    <attr name="containerCornerRadius" format="float" />
+    <attr name="guideNotifAuth" format="string" />
+    <attr name="lowBatteryLevelColor" format="color|reference" />
+    <attr name="normalLevelColor" format="color|reference" />
+    <attr name="openMusicTip" format="string" />
+    <attr name="permissionStr" format="string" />
+    <attr name="permissionTvColor" format="color|reference" />
+    <attr name="powerSaveDrawable" format="reference" />
 </resources>

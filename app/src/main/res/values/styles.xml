@@ -8,4 +8,8 @@
         <item name="android:shadowDy">1.0</item>
         <item name="android:shadowRadius">0.5</item>
     </style>
+    <style name="BatteryLevelTextStyle">
+        <item name="android:textSize">30.0sp</item>
+        <item name="lineHeight">30.0dp</item>
+    </style>
 </resources>
