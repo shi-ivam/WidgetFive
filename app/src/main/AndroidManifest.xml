@@ -391,6 +391,26 @@
                 android:name="android.appwidget.provider"
                 android:resource="@xml/breath_relax_widget_info" />
         </receiver>
+        <receiver
+            android:name="com.nothing.hearthstone.breath.provider.BreathFocusProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/breath_focus_widget_info" />
+        </receiver>
+        <receiver
+            android:name="com.nothing.hearthstone.breath.provider.BreathCalmProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/breath_calm_widget_info" />
+        </receiver>
         <activity
             android:name="com.nothing.hearthstone.screentime.ui.ScreenTimeSettingActivity"
             android:exported="true" />
