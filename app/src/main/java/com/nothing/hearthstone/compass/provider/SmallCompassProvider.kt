@@ -18,6 +18,24 @@ class SmallCompassProvider : AppWidgetProvider() {
         update(context, appWidgetManager, appWidgetId)
     }
 
+    override fun onReceive(context: Context, intent: Intent) {
+        super.onReceive(context, intent)
+        if (intent.action == Intent.ACTION_BOOT_COMPLETED) {
+            val mgr = AppWidgetManager.getInstance(context)
+            val cn = android.content.ComponentName(context, SmallCompassProvider::class.java)
+            val ids = mgr.getAppWidgetIds(cn)
+            for (id in ids) update(context, mgr, id)
+        }
+    }
+
+    override fun onDeleted(context: Context, appWidgetIds: IntArray) {
+        val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE).edit()
+        for (id in appWidgetIds) {
+            prefs.remove(aodKey(id))
+        }
+        prefs.apply()
+    }
+
     private fun update(context: Context, appWidgetManager: AppWidgetManager, appWidgetId: Int) {
         val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
         val aod = prefs.getBoolean(aodKey(appWidgetId), false)
@@ -27,6 +45,10 @@ class SmallCompassProvider : AppWidgetProvider() {
         val pi = android.app.PendingIntent.getActivity(context, appWidgetId, intent, android.app.PendingIntent.FLAG_UPDATE_CURRENT or android.app.PendingIntent.FLAG_IMMUTABLE)
         val clickId = if (aod) R.id.iv_aod else R.id.compass_container
         views.setOnClickPendingIntent(clickId, pi)
+        // QoL: make the whole compass surface tappable to configure
+        if (!aod) {
+            try { views.setOnClickPendingIntent(R.id.iv, pi) } catch (_: Exception) { }
+        }
         appWidgetManager.updateAppWidget(appWidgetId, views)
     }
 
