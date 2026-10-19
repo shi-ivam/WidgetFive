@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <size android:height="56.0dp" android:width="318.0dp" />
+            <solid android:color="@color/share_send_main_btn_press_color" />
+            <corners android:topLeftRadius="4.0dp" android:topRightRadius="4.0dp" android:bottomLeftRadius="12.0dp" android:bottomRightRadius="12.0dp" />
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <size android:height="56.0dp" android:width="318.0dp" />
+            <solid android:color="@color/share_button_disable_color" />
+            <corners android:topLeftRadius="4.0dp" android:topRightRadius="4.0dp" android:bottomLeftRadius="12.0dp" android:bottomRightRadius="12.0dp" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <size android:height="56.0dp" android:width="318.0dp" />
+            <solid android:color="@color/share_widget_dialog_button_text_color" />
+            <corners android:topLeftRadius="4.0dp" android:topRightRadius="4.0dp" android:bottomLeftRadius="12.0dp" android:bottomRightRadius="12.0dp" />
+        </shape>
+    </item>
+</selector>

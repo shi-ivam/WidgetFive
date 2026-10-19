@@ -1,0 +1,18 @@
+{
+  "shortcuts": [
+    {
+      "line": 1,
+      "title": "shortcut_camera_title",
+      "icon": "shortcuts_camera_icon",
+      "action": "com.nothing.action.SHORTCUT_CAMERA",
+      "targetPackage": "com.nothing.hearthstone"
+    },
+    {
+      "line": 1,
+      "title": "shortcut_photo_title",
+      "icon": "shortcuts_photo_icon",
+      "action": "com.nothing.action.SHORTCUT_PHOTO",
+      "targetPackage": "com.nothing.hearthstone"
+    }
+  ]
+}

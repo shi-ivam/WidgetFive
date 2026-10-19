@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="112.0dp" android:width="113.0dp" android:autoMirrored="true" android:viewportWidth="113.0" android:viewportHeight="112.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M56.95,0L56.95,0A0.8,0.8 0,0 1,57.75 0.8L57.75,23.2A0.8,0.8 0,0 1,56.95 24L56.95,24A0.8,0.8 0,0 1,56.15 23.2L56.15,0.8A0.8,0.8 0,0 1,56.95 0z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M56.95,88L56.95,88A0.8,0.8 0,0 1,57.75 88.8L57.75,111.2A0.8,0.8 0,0 1,56.95 112L56.95,112A0.8,0.8 0,0 1,56.15 111.2L56.15,88.8A0.8,0.8 0,0 1,56.95 88z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M0.95,56L0.95,56A0.8,0.8 0,0 1,1.75 55.2L24.15,55.2A0.8,0.8 0,0 1,24.95 56L24.95,56A0.8,0.8 0,0 1,24.15 56.8L1.75,56.8A0.8,0.8 0,0 1,0.95 56z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M88.95,56L88.95,56A0.8,0.8 0,0 1,89.75 55.2L112.15,55.2A0.8,0.8 0,0 1,112.95 56L112.95,56A0.8,0.8 0,0 1,112.15 56.8L89.75,56.8A0.8,0.8 0,0 1,88.95 56z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M96.55,16.4L96.55,16.4A0.8,0.8 90,0 1,96.55 17.53L80.71,33.37A0.8,0.8 90,0 1,79.58 33.37L79.58,33.37A0.8,0.8 90,0 1,79.58 32.24L95.42,16.4A0.8,0.8 90,0 1,96.55 16.4z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M34.32,78.63L34.32,78.63A0.8,0.8 0,0 1,34.32 79.76L18.48,95.6A0.8,0.8 0,0 1,17.35 95.6L17.35,95.6A0.8,0.8 90,0 1,17.35 94.47L33.19,78.63A0.8,0.8 90,0 1,34.32 78.63z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M17.35,16.4L17.35,16.4A0.8,0.8 90,0 1,18.48 16.4L34.32,32.24A0.8,0.8 90,0 1,34.32 33.37L34.32,33.37A0.8,0.8 90,0 1,33.19 33.37L17.35,17.53A0.8,0.8 90,0 1,17.35 16.4z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M79.58,78.63L79.58,78.63A0.8,0.8 90,0 1,80.71 78.63L96.55,94.47A0.8,0.8 0,0 1,96.55 95.6L96.55,95.6A0.8,0.8 90,0 1,95.42 95.6L79.58,79.76A0.8,0.8 0,0 1,79.58 78.63z" />
+</vector>

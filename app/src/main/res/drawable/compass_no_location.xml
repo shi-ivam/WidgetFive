@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="44.0dp" android:width="44.0dp" android:autoMirrored="true" android:viewportWidth="44.0" android:viewportHeight="44.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/compass_font_color" android:pathData="M22,36m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M26,32m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M26,28m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M18,32m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M22,32m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M22,28m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M26,24m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M30,20m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M14,28m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M18,28m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M10,24m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M34,24m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M10,20m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M14,20m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M18,24m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M14,24m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M34,20m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M10,16m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M14,16m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M18,16m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M34,16m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M14,12m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M18,12m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M22,12m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M26,12m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M26,16m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M30,16m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M30,12m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M18,8m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M22,8m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M26,8m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M30,28m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M30,24m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M10,8m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M6,4m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M34,32m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M38,36m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+</vector>

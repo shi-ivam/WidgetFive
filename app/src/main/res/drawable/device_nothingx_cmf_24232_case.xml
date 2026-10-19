@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="32.0dp" android:width="32.0dp" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/battery_device_secondary_color" android:pathData="M9,5.5L23,5.5A3.5,3.5 0,0 1,26.5 9L26.5,23A3.5,3.5 0,0 1,23 26.5L9,26.5A3.5,3.5 0,0 1,5.5 23L5.5,9A3.5,3.5 0,0 1,9 5.5z" android:strokeColor="@color/battery_device_primary_color" android:strokeWidth="3.0" />
+    <path android:fillColor="@color/battery_device_secondary_color" android:pathData="M9,9m-6.5,0a6.5,6.5 0,1 1,13 0a6.5,6.5 0,1 1,-13 0" />
+    <path android:fillColor="@color/battery_device_primary_color" android:pathData="M9,14C11.761,14 14,11.761 14,9C14,6.239 11.761,4 9,4C6.239,4 4,6.239 4,9C4,11.761 6.239,14 9,14ZM9,11C10.105,11 11,10.105 11,9C11,7.895 10.105,7 9,7C7.895,7 7,7.895 7,9C7,10.105 7.895,11 9,11Z" android:fillType="evenOdd" />
+</vector>

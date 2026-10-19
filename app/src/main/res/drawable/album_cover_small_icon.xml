@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="70.0dp" android:width="70.0dp" android:autoMirrored="true" android:viewportWidth="70.0" android:viewportHeight="70.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/color_album_small_cover_bg" android:pathData="M6,0L64,0A6,6 0,0 1,70 6L70,64A6,6 0,0 1,64 70L6,70A6,6 0,0 1,0 64L0,6A6,6 0,0 1,6 0z" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M27,37m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M47,37m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M27,41m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M47,41m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M27,45m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M47,45m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M27,33m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M47,33m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M31,25m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M31,29m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M43,21m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M35,21m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M27,21m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M27,29m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M47,29m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M27,25m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M47,25m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M47,21m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M39,21m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M31,21m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M35,25m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M35,29m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M39,25m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M39,29m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M43,25m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M43,27C44.105,27 45,27.895 45,29C45,30.105 44.105,31 43,31C41.895,31 41,30.105 41,29C41,27.895 41.895,27 43,27Z" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M23,45m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M43,45m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M19,45m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M39,45m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M23,49m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M43,49m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M19,49m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+    <path android:fillColor="@color/color_album_small_cover_icon" android:pathData="M39,49m0,2a2,2 0,1 1,0 -4a2,2 0,1 1,0 4" />
+</vector>

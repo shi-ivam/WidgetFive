@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="150.0dp" android:width="150.0dp" android:viewportWidth="150.0" android:viewportHeight="150.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/widget_count_down_setting_shape_color_edm" android:pathData="M59.38,75C65.94,71.36 71.36,65.94 75,59.38C78.64,65.94 84.06,71.36 90.62,75C84.06,78.64 78.64,84.06 75,90.62C71.36,84.06 65.94,78.64 59.38,75ZM75,129.38C68.18,141.68 55.06,150 40,150C17.91,150 0,132.09 0,110C0,94.94 8.32,81.82 20.62,75C8.32,68.18 0,55.06 0,40C0,17.91 17.91,0 40,0C55.06,0 68.18,8.32 75,20.62C81.82,8.32 94.94,0 110,0C132.09,0 150,17.91 150,40C150,55.06 141.68,68.18 129.38,75C141.68,81.82 150,94.94 150,110C150,132.09 132.09,150 110,150C94.94,150 81.82,141.68 75,129.38Z" android:fillType="evenOdd" />
+</vector>

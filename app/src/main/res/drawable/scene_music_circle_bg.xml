@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="172.0px" android:width="172.0px" />
+    <corners android:radius="999.0dp" />
+    <solid android:color="@color/scene_music_preview_bg_color" />
+</shape>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="78.0dp" android:width="172.0dp" android:autoMirrored="true" android:viewportWidth="172.0" android:viewportHeight="78.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/ql_card_style_bg_color" android:pathData="M39,0L133,0A39,39 0,0 1,172 39L172,39A39,39 0,0 1,133 78L39,78A39,39 0,0 1,0 39L0,39A39,39 0,0 1,39 0z" />
+    <group>
+        <clip-path android:pathData="M74,22h24v34h-24z" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M88,54m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M92,54m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M88,50m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M88,46m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M84,42m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M84,38m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M88,34m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M92,38m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M84,34m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M84,30m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M88,30m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M84,26m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M88,26m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M80,34m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M80,38m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M84,46m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M80,50m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M80,54m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+    </group>
+</vector>

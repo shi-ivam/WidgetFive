@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/share_reaction_button_color" />
+    <corners android:radius="48.0dp" />
+    <padding android:top="16.0dp" android:bottom="16.0dp" />
+</shape>

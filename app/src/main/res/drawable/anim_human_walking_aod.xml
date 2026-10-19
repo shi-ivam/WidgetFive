@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="120" android:drawable="@drawable/ic_human_walking_1_aod" />
+    <item android:duration="120" android:drawable="@drawable/ic_human_walking_2_aod" />
+    <item android:duration="120" android:drawable="@drawable/ic_human_walking_3_aod" />
+    <item android:duration="120" android:drawable="@drawable/ic_human_walking_4_aod" />
+</animation-list>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <stroke android:width="4.0px" android:color="@android:color/transparent" />
+            <solid android:color="@color/color_media_switch_icon_bg" />
+            <corners android:radius="20.0dp" />
+        </shape>
+    </item>
+    <item android:gravity="start|center" android:id="@id/media_play_previous_icon" android:drawable="@drawable/media_play_previous_icon" />
+    <item android:gravity="end|center" android:id="@id/media_play_next_icon" android:drawable="@drawable/media_play_next_icon" />
+</layer-list>

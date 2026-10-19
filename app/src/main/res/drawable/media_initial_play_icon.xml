@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="56.0dp" android:width="32.0dp" android:autoMirrored="true" android:viewportWidth="32.0" android:viewportHeight="56.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M12,28m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M12,20m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M12,12m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M12,36m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M12,44m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M4,20m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M4,28m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M4,12m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M4,36m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M4,4m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M4,44m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M4,52m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M20,28m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M20,20m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M20,36m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+    <path android:fillColor="@color/color_media_album_icon_default" android:pathData="M28,28m0,4a4,4 0,1 1,0 -8a4,4 0,1 1,0 8" />
+</vector>

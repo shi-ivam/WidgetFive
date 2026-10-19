@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="344.0dp" android:width="344.0dp" android:viewportWidth="172.0" android:viewportHeight="172.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/analog_clock_scale_dial_color" android:pathData="M86,86m-2.5,-4.33a5,5 104.8,1 1,5 8.66a5,5 104.8,1 1,-5 -8.66" />
+</vector>

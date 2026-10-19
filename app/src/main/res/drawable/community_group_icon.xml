@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="18.0dp" android:width="22.0dp" android:viewportWidth="22.0" android:viewportHeight="18.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M13,3m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M9,3m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M13,1m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M11,1m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M9,1m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M17,17m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M15,17m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M13,17m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M11,17m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M9,17m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M7,17m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M5,17m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M17,13m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M17,15m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M15,9m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M17,11m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M3,11m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M19,11m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M5,11m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M9,5m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M9,9m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M13,9m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M11,9m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M13,5m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M11,5m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M7,9m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M5,13m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M5,15m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M17,5m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M3,5m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M17,7m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M3,7m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M19,5m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M5,5m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M19,7m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M5,7m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M19,15m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M1,15m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M1,13m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M3,15m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M21,13m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+    <path android:fillColor="@color/pedometer_group_icon_color" android:pathData="M21,15m1,-0a1,1 0,1 1,-2 -0a1,1 0,1 1,2 -0" />
+</vector>

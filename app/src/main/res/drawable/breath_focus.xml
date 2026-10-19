@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="100.0dp" android:width="132.0dp" android:autoMirrored="true" android:viewportWidth="132.0" android:viewportHeight="100.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#00000000" android:pathData="M131.2,50C131.2,63.5 123.98,75.78 112.19,84.72C100.39,93.65 84.07,99.2 66,99.2C47.93,99.2 31.61,93.65 19.81,84.72C8.02,75.78 0.8,63.5 0.8,50C0.8,36.5 8.02,24.22 19.81,15.28C31.61,6.35 47.93,0.8 66,0.8C84.07,0.8 100.39,6.35 112.19,15.28C123.98,24.22 131.2,36.5 131.2,50Z" android:strokeColor="@color/breath_card_icon_color" android:strokeWidth="1.6" />
+    <path android:fillColor="#00000000" android:pathData="M124.2,50C124.2,77.05 98.27,99.2 66,99.2C33.73,99.2 7.8,77.05 7.8,50C7.8,22.95 33.73,0.8 66,0.8C98.27,0.8 124.2,22.95 124.2,50Z" android:strokeColor="@color/breath_card_icon_color" android:strokeWidth="1.6" />
+    <path android:fillColor="#00000000" android:pathData="M116.2,50C116.2,77.16 93.74,99.2 66,99.2C38.26,99.2 15.8,77.16 15.8,50C15.8,22.84 38.26,0.8 66,0.8C93.74,0.8 116.2,22.84 116.2,50Z" android:strokeColor="@color/breath_card_icon_color" android:strokeWidth="1.6" />
+    <path android:fillColor="#00000000" android:pathData="M107.2,50C107.2,77.31 88.63,99.2 66,99.2C43.37,99.2 24.8,77.31 24.8,50C24.8,22.69 43.37,0.8 66,0.8C88.63,0.8 107.2,22.69 107.2,50Z" android:strokeColor="@color/breath_card_icon_color" android:strokeWidth="1.6" />
+    <path android:fillColor="#00000000" android:pathData="M97.2,50C97.2,63.68 93.65,76.02 87.95,84.92C82.25,93.83 74.47,99.2 66,99.2C57.53,99.2 49.75,93.83 44.05,84.92C38.35,76.02 34.8,63.68 34.8,50C34.8,36.32 38.35,23.98 44.05,15.08C49.75,6.17 57.53,0.8 66,0.8C74.47,0.8 82.25,6.17 87.95,15.08C93.65,23.98 97.2,36.32 97.2,50Z" android:strokeColor="@color/breath_card_icon_color" android:strokeWidth="1.6" />
+</vector>

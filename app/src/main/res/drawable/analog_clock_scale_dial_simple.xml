@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="894.0px" android:width="894.0px" android:viewportWidth="172.0" android:viewportHeight="172.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/common_simple_fill_color" android:pathData="M86,4V14" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M86,158V168" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M45,14.99L50,23.65" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M122,148.35L127,157.01" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M14.99,45L23.65,50" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M148.35,122L157.01,127" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M4,86L14,86" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M158,86L168,86" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M14.99,127L23.65,122" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M148.35,50L157.01,45" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M45,157.01L50,148.35" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M122,23.65L127,14.99" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="3.0" />
+    <path android:fillColor="#00000000" android:pathData="M86,0.5L86,0.5A85.5,85.5 0,0 1,171.5 86L171.5,86A85.5,85.5 0,0 1,86 171.5L86,171.5A85.5,85.5 0,0 1,0.5 86L0.5,86A85.5,85.5 0,0 1,86 0.5z" android:strokeColor="@color/common_simple_fill_color" android:strokeWidth="1.0" />
+</vector>

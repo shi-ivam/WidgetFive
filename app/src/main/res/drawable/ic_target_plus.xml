@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="40.0dp" android:width="56.0dp" android:viewportWidth="56.0" android:viewportHeight="40.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <path android:fillColor="@color/pedometer_target_mark_color" android:pathData="M27,27V21H21V19H27V13H29V19H35V21H29V27H27Z" />
+    </group>
+</vector>

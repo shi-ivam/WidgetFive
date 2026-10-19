@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/comp_button_surface_filled_primary_overlay"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/color_surface_on_primary" />
+            <corners android:radius="@dimen/border_radius_full" />
+        </shape>
+    </item>
+</ripple>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="144.0dp" android:width="144.0dp" android:viewportWidth="144.0" android:viewportHeight="144.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/news_bg_color" android:pathData="M17.71,0.48L126.29,0.48A17.23,17.23 0,0 1,143.52 17.71L143.52,126.29A17.23,17.23 0,0 1,126.29 143.52L17.71,143.52A17.23,17.23 0,0 1,0.48 126.29L0.48,17.71A17.23,17.23 0,0 1,17.71 0.48z" />
+    <path android:fillColor="@color/news_progressbar_finish_color" android:pathData="M66.83,29.39L66.83,29.39A2.59,2.59 0,0 1,69.41 31.98L69.41,112.98A2.59,2.59 0,0 1,66.83 115.56L66.83,115.56A2.59,2.59 0,0 1,64.24 112.98L64.24,31.98A2.59,2.59 0,0 1,66.83 29.39z" />
+    <path android:fillColor="@color/news_progressbar_finish_color" android:pathData="M56.49,32.84L56.49,32.84A2.59,2.59 0,0 1,59.07 35.43L59.07,109.53A2.59,2.59 0,0 1,56.49 112.12L56.49,112.12A2.59,2.59 0,0 1,53.9 109.53L53.9,35.43A2.59,2.59 0,0 1,56.49 32.84z" />
+    <path android:fillColor="@color/news_progressbar_finish_color" android:pathData="M87.51,32.84L87.51,32.84A2.59,2.59 0,0 1,90.1 35.43L90.1,109.53A2.59,2.59 0,0 1,87.51 112.12L87.51,112.12A2.59,2.59 0,0 1,84.93 109.53L84.93,35.43A2.59,2.59 0,0 1,87.51 32.84z" />
+    <path android:fillColor="@color/news_progressbar_finish_color" android:pathData="M46.15,39.73L46.15,39.73A2.59,2.59 0,0 1,48.73 42.32L48.73,102.64A2.59,2.59 0,0 1,46.15 105.22L46.15,105.22A2.59,2.59 0,0 1,43.56 102.64L43.56,42.32A2.59,2.59 0,0 1,46.15 39.73z" />
+    <path android:fillColor="@color/news_progressbar_finish_color" android:pathData="M97.85,39.73L97.85,39.73A2.59,2.59 0,0 1,100.44 42.32L100.44,102.64A2.59,2.59 0,0 1,97.85 105.22L97.85,105.22A2.59,2.59 0,0 1,95.27 102.64L95.27,42.32A2.59,2.59 0,0 1,97.85 39.73z" />
+    <path android:fillColor="@color/news_progressbar_finish_color" android:pathData="M35.81,52.66L35.81,52.66A2.59,2.59 0,0 1,38.39 55.24L38.39,89.71A2.59,2.59 0,0 1,35.81 92.3L35.81,92.3A2.59,2.59 0,0 1,33.22 89.71L33.22,55.24A2.59,2.59 0,0 1,35.81 52.66z" />
+    <path android:fillColor="@color/news_progressbar_finish_color" android:pathData="M108.19,52.66L108.19,52.66A2.59,2.59 0,0 1,110.78 55.24L110.78,89.71A2.59,2.59 0,0 1,108.19 92.3L108.19,92.3A2.59,2.59 0,0 1,105.61 89.71L105.61,55.24A2.59,2.59 0,0 1,108.19 52.66z" />
+    <path android:fillColor="@color/news_progressbar_finish_color" android:pathData="M77.17,29.39L77.17,29.39A2.59,2.59 0,0 1,79.76 31.98L79.76,112.98A2.59,2.59 0,0 1,77.17 115.56L77.17,115.56A2.59,2.59 0,0 1,74.59 112.98L74.59,31.98A2.59,2.59 0,0 1,77.17 29.39z" />
+    <path android:fillColor="@color/news_progressbar_is_playing_color" android:pathData="M126.29,17.71m-2.59,0a2.59,2.59 0,1 1,5.17 0a2.59,2.59 0,1 1,-5.17 0" />
+</vector>

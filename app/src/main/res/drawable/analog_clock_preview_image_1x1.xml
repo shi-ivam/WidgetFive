@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="78.0dp" android:width="78.0dp" android:viewportWidth="78.0" android:viewportHeight="78.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/analog_clock_bg_color" android:pathData="M39,0L39,0A39,39 0,0 1,78 39L78,39A39,39 0,0 1,39 78L39,78A39,39 0,0 1,0 39L0,39A39,39 0,0 1,39 0z" />
+    <path android:fillColor="#00000000" android:pathData="M26.713,30.396L39,39" android:strokeColor="@color/analog_clock_bold_hour_color" android:strokeWidth="10.0" android:strokeLineCap="round" />
+    <path android:fillColor="#00000000" android:pathData="M65.847,23.5L39,39" android:strokeColor="@color/analog_clock_bold_minute_color" android:strokeWidth="3.0" android:strokeLineCap="round" />
+</vector>

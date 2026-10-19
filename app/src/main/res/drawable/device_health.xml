@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="32.0dp" android:width="32.0dp" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0h32v32h-32z" />
+        <path android:fillColor="@color/battery_device_primary_color" android:pathData="M24,14C24,18.214 21.393,21.819 17.705,23.291C16.661,23.708 16,24.876 16,26C16,29.314 13.314,32 10,32C6.686,32 4,29.314 4,26V14C4,8.477 8.477,4 14,4C19.523,4 24,8.477 24,14Z" android:fillType="evenOdd" />
+        <path android:fillColor="@color/battery_device_secondary_color" android:pathData="M14,14m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+        <path android:fillColor="#00000000" android:pathData="M24.253,6.575C25.228,7.55 26.001,8.708 26.529,9.982C27.057,11.256 27.328,12.621 27.328,14C27.328,15.379 27.057,16.744 26.529,18.018C26.001,19.292 25.228,20.45 24.253,21.425" android:strokeColor="@color/battery_device_primary_color" android:strokeWidth="3.0" android:strokeLineCap="round" />
+    </group>
+</vector>

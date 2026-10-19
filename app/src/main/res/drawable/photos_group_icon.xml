@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dp" android:width="24.0dp" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M4,8m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M4,10m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M4,12m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M4,14m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M4,16m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M5,6a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M5,18a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M11,14a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M11,16a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M9,16a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M13,16a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M15,16a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M17,16a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M15,14a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M13,12a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M7,10a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M13,14a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M8,6m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M8,18m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M10,6m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M10,18m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M12,6m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M12,18m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M13,6a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M13,18a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M15,6a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M17,6a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M15,18a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M17,18a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M19,8a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M19,10a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M19,12a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M19,14a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/photos_group_icon_color" android:pathData="M19,16a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+</vector>

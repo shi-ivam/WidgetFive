@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="C1">A=Abidjan|Africa/Abidjan</string>
+    <string name="C10">D=Dakar|Africa/Dakar</string>
+    <string name="C100">A=Amman|Asia/Amman</string>
+    <string name="C101">A=Anadyr|Asia/Anadyr</string>
+    <string name="C102">A=Aqtau|Asia/Aqtau</string>
+    <string name="C103">B=Baghdad|Asia/Baghdad</string>
+    <string name="C104">B=Bahrain|Asia/Bahrain</string>
+    <string name="C105">B=Baku|Asia/Baku</string>
+    <string name="C106">B=Bangkok|Asia/Bangkok</string>
+    <string name="C107">B=Beirut|Asia/Beirut</string>
+    <string name="C108">K=Kolkata|Asia/Calcutta</string>
+    <string name="C109">D=Damascus|Asia/Damascus</string>
+    <string name="C11">D=Dar es Salaam|Africa/Dar_es_Salaam</string>
+    <string name="C110">D=Dhaka|Asia/Dhaka</string>
+    <string name="C111">D=Dubai|Asia/Dubai</string>
+    <string name="C112">G=Gaza|Asia/Gaza</string>
+    <string name="C113">H=Hebron|Asia/Hebron</string>
+    <string name="C114">H=Ho Chi Minh|Asia/Ho_Chi_Minh</string>
+    <string name="C115">H=Hong Kong:|Asia/Hong_Kong</string>
+    <string name="C117">J=Jakarta|Asia/Jakarta</string>
+    <string name="C118">J=Jerusalem|Asia/Jerusalem</string>
+    <string name="C119">K=Kabul|Asia/Kabul</string>
+    <string name="C12">D=Djibouti|Africa/Djibouti</string>
+    <string name="C120">K=Karachi|Asia/Karachi</string>
+    <string name="C121">K=Kathmandu|Asia/Kathmandu</string>
+    <string name="C122">K=Kuala Lumpur|Asia/Kuala_Lumpur</string>
+    <string name="C123">K=Kuwait|Asia/Kuwait</string>
+    <string name="C124">M=Macau|Asia/Macau</string>
+    <string name="C125">M=Manila|Asia/Manila</string>
+    <string name="C126">M=Muscat|Asia/Muscat</string>
+    <string name="C127">P=Phnom Penh|Asia/Phnom_Penh</string>
+    <string name="C128">P=Pyongyang:|Asia/Pyongyang</string>
+    <string name="C13">F=Freetown|Africa/Freetown</string>
+    <string name="C130">R=Rangoon|Asia/Rangoon</string>
+    <string name="C131">R=Riyadh|Asia/Riyadh</string>
+    <string name="C133">S=Seoul|Asia/Seoul</string>
+    <string name="C134">S=Shanghai:|Asia/Shanghai</string>
+    <string name="C135">S=Singapore|Asia/Singapore</string>
+    <string name="C136">T=Taipei:|Asia/Taipei</string>
+    <string name="C137">T=Tehran|Asia/Tehran</string>
+    <string name="C138">T=Tel Aviv|Asia/Tel_Aviv</string>
+    <string name="C139">T=Tokyo:|Asia/Tokyo</string>
+    <string name="C14">G=Gaborone|Africa/Gaborone</string>
+    <string name="C140">U=Ulaanbaatar|Asia/Ulaanbaatar</string>
+    <string name="C141">B=Bermuda|Atlantic/Bermuda</string>
+    <string name="C142">C=Canary|Atlantic/Canary</string>
+    <string name="C143">C=Cape Verde|Atlantic/Cape_Verde</string>
+    <string name="C144">R=Reykjavik|Atlantic/Reykjavik</string>
+    <string name="C145">S=Stanley|Atlantic/Stanley</string>
+    <string name="C146">A=Adelaide|Australia/Adelaide</string>
+    <string name="C147">B=Brisbane|Australia/Brisbane</string>
+    <string name="C148">C=Canberra|Australia/Canberra</string>
+    <string name="C149">D=Darwin|Australia/Darwin</string>
+    <string name="C15">H=Harare|Africa/Harare</string>
+    <string name="C150">M=Melbourne|Australia/Melbourne</string>
+    <string name="C151">N=New South Wales|Australia/NSW</string>
+    <string name="C152">P=Perth|Australia/Perth</string>
+    <string name="C153">Q=Queensland|Australia/Queensland</string>
+    <string name="C154">S=Sydney|Australia/Sydney</string>
+    <string name="C155">V=Victoria|Australia/Victoria</string>
+    <string name="C156">N=Newfoundland|Canada/Newfoundland</string>
+    <string name="C157">S=Saskatchewan|Canada/Saskatchewan</string>
+    <string name="C158">E=Easter Island|Chile/EasterIsland</string>
+    <string name="C159">A=Amsterdam|Europe/Amsterdam</string>
+    <string name="C16">J=Johannesburg|Africa/Johannesburg</string>
+    <string name="C160">A=Andorra|Europe/Andorra</string>
+    <string name="C161">A=Athens|Europe/Athens</string>
+    <string name="C162">B=Belfast|Europe/Belfast</string>
+    <string name="C163">B=Belgrade|Europe/Belgrade</string>
+    <string name="C164">B=Berlin|Europe/Berlin</string>
+    <string name="C165">B=Bratislava|Europe/Bratislava</string>
+    <string name="C166">B=Brussels|Europe/Brussels</string>
+    <string name="C167">B=Bucharest|Europe/Bucharest</string>
+    <string name="C168">B=Budapest|Europe/Budapest</string>
+    <string name="C169">C=Chisinau|Europe/Chisinau</string>
+    <string name="C17">K=Kampala|Africa/Kampala</string>
+    <string name="C170">C=Copenhagen|Europe/Copenhagen</string>
+    <string name="C171">D=Dublin|Europe/Dublin</string>
+    <string name="C172">G=Gibraltar|Europe/Gibraltar</string>
+    <string name="C173">H=Helsinki|Europe/Helsinki</string>
+    <string name="C174">I=Isle of Man|Europe/Isle_of_Man</string>
+    <string name="C175">I=Istanbul|Europe/Istanbul</string>
+    <string name="C176">K=Kiev|Europe/Kiev</string>
+    <string name="C177">L=Lisbon|Europe/Lisbon</string>
+    <string name="C178">L=London|Europe/London</string>
+    <string name="C179">L=Luxembourg|Europe/Luxembourg</string>
+    <string name="C18">K=Khartoum|Africa/Khartoum</string>
+    <string name="C180">M=Madrid|Europe/Madrid</string>
+    <string name="C181">M=Malta|Europe/Malta</string>
+    <string name="C182">M=Minsk|Europe/Minsk</string>
+    <string name="C183">M=Monaco|Europe/Monaco</string>
+    <string name="C184">M=Moscow|Europe/Moscow</string>
+    <string name="C185">O=Oslo|Europe/Oslo</string>
+    <string name="C186">P=Paris|Europe/Paris</string>
+    <string name="C187">P=Prague|Europe/Prague</string>
+    <string name="C188">R=Riga|Europe/Riga</string>
+    <string name="C189">R=Rome|Europe/Rome</string>
+    <string name="C19">K=Kigali|Africa/Kigali</string>
+    <string name="C190">S=San Marino|Europe/San_Marino</string>
+    <string name="C191">S=Sarajevo|Europe/Sarajevo</string>
+    <string name="C192">S=Simferopol|Europe/Simferopol</string>
+    <string name="C193">S=Skopje|Europe/Skopje</string>
+    <string name="C194">S=Sofia|Europe/Sofia</string>
+    <string name="C195">S=Stockholm|Europe/Stockholm</string>
+    <string name="C196">T=Tallinn|Europe/Tallinn</string>
+    <string name="C197">V=Vatican|Europe/Vatican</string>
+    <string name="C198">V=Vienna|Europe/Vienna</string>
+    <string name="C199">V=Vilnius|Europe/Vilnius</string>
+    <string name="C2">A=Accra|Africa/Accra</string>
+    <string name="C20">K=Kinshasa|Africa/Kinshasa</string>
+    <string name="C200">W=Warsaw|Europe/Warsaw</string>
+    <string name="C201">Z=Zagreb|Europe/Zagreb</string>
+    <string name="C202">Z=Zurich|Europe/Zurich</string>
+    <string name="C203">A=Antananarivo|Indian/Antananarivo</string>
+    <string name="C204">M=Maldives|Indian/Maldives</string>
+    <string name="C205">M=Mauritius|Indian/Mauritius</string>
+    <string name="C206">A=Auckland|Pacific/Auckland</string>
+    <string name="C207">F=Fiji|Pacific/Fiji</string>
+    <string name="C208">G=Guam|Pacific/Guam</string>
+    <string name="C209">H=Honolulu|Pacific/Honolulu</string>
+    <string name="C21">L=Lagos|Africa/Lagos</string>
+    <string name="C210">K=Kiritimati|Pacific/Kiritimati</string>
+    <string name="C211">N=Noumea|Pacific/Noumea</string>
+    <string name="C214">A=Antigua|America/Antigua</string>
+    <string name="C215">A=Austin|America/Chicago</string>
+    <string name="C216">B=Boston|America/New_York</string>
+    <string name="C217">C=Calgary|America/Denver</string>
+    <string name="C218">C=Columbus|America/New_York</string>
+    <string name="C219">D=Dallas|America/Chicago</string>
+    <string name="C22">M=Maseru|Africa/Maseru</string>
+    <string name="C220">K=Knoxville|America/New_York</string>
+    <string name="C221">M=Memphis|America/Chicago</string>
+    <string name="C222">M=Miami|America/New_York</string>
+    <string name="C223">M=Minneapolis|America/Chicago</string>
+    <string name="C224">O=Ottawa|America/New_York</string>
+    <string name="C225">P=Philadelphia|America/New_York</string>
+    <string name="C226">P=Portland|America/Los_Angeles</string>
+    <string name="C227">S=San Diego|America/Los_Angeles</string>
+    <string name="C228">S=San Francisco|America/Los_Angeles</string>
+    <string name="C229">S=Salt Lake City|America/Denver</string>
+    <string name="C23">M=Mogadishu|Africa/Mogadishu</string>
+    <string name="C230">S=San Jose|America/Los_Angeles</string>
+    <string name="C231">S=San Salvador|America/Guatemala</string>
+    <string name="C232">S=Seattle|America/Los_Angeles</string>
+    <string name="C233">S=St. Louis|America/Chicago</string>
+    <string name="C234">W=Washington D.C.|America/New_York</string>
+    <string name="C235">H=Houston|America/Chicago</string>
+    <string name="C236">S=San Antonio|America/Chicago</string>
+    <string name="C237">J=Jacksonville|America/New_York</string>
+    <string name="C238">B=Baltimore|America/New_York</string>
+    <string name="C239">N=Nashville|America/Chicago</string>
+    <string name="C24">N=Nairobi|Africa/Nairobi</string>
+    <string name="C240">M=Milwaukee|America/Chicago</string>
+    <string name="C241">O=Oklahoma City|America/Chicago</string>
+    <string name="C242">L=Las Vegas|America/Los_Angeles</string>
+    <string name="C243">A=Albuquerque|America/Denver</string>
+    <string name="C244">T=Tucson|MST</string>
+    <string name="C245">S=Sacramento|America/Los_Angeles</string>
+    <string name="C246">A=Atlanta|America/New_York</string>
+    <string name="C247">C=Cleveland|America/New_York</string>
+    <string name="C248">N=New Orleans|America/Chicago</string>
+    <string name="C249">T=Tampa|America/New_York</string>
+    <string name="C25">S=São Tomé|Africa/Sao_Tome</string>
+    <string name="C250">P=Pittsburgh|America/New_York</string>
+    <string name="C251">C=Cincinnati|America/New_York</string>
+    <string name="C252">M=Mountain View|America/Los_Angeles</string>
+    <string name="C253">R=Reno|America/Los_Angeles</string>
+    <string name="C254">B=Black Rock City|America/Los_Angeles</string>
+    <string name="C255">D=Doha|Asia/Riyadh</string>
+    <string name="C256">B=Beijing:|Asia/Shanghai</string>
+    <string name="C257">M=Mumbai|Asia/Kolkata</string>
+    <string name="C258">D=Delhi|Asia/Kolkata</string>
+    <string name="C259">O=Osaka:|Asia/Tokyo</string>
+    <string name="C26">T=Timbuktu|Africa/Timbuktu</string>
+    <string name="C260">L=Lahore|Asia/Karachi</string>
+    <string name="C261">"S=Sana'a|Asia/Riyadh"</string>
+    <string name="C262">B=Barcelona|Europe/Madrid</string>
+    <string name="C263">M=Munich|Europe/Berlin</string>
+    <string name="C264">M=Milan|Europe/Rome</string>
+    <string name="C265">F=Frankfurt|Europe/Berlin</string>
+    <string name="C266">H=Hanoi|Asia/Bangkok</string>
+    <string name="C267">A=Ankara|Europe/Istanbul</string>
+    <string name="C268">B=Bangalore|Asia/Kolkata</string>
+    <string name="C269">B=Brasília|America/Sao_Paulo</string>
+    <string name="C27">T=Tripoli|Africa/Tripoli</string>
+    <string name="C270">C=Cape Town|Africa/Johannesburg</string>
+    <string name="C271">I=Islamabad|Asia/Karachi</string>
+    <string name="C272">R=Rio de Janeiro|America/Sao_Paulo</string>
+    <string name="C273">A=Ann Arbor|America/Detroit</string>
+    <string name="C274">B=Boulder|America/Denver</string>
+    <string name="C275">C=Cambridge|America/New_York</string>
+    <string name="C276">K=Kirkland|America/Los_Angeles</string>
+    <string name="C277">M=Madison|America/Chicago</string>
+    <string name="C278">G=Guangzhou:|Asia/Shanghai</string>
+    <string name="C279">H=Hyderabad|Asia/Kolkata</string>
+    <string name="C28">T=Tunis|Africa/Tunis</string>
+    <string name="C280">R=Reston|America/New_York</string>
+    <string name="C281">B=Belo Horizonte|America/Sao_Paulo</string>
+    <string name="C282">S=Santiago|America/Santiago</string>
+    <string name="C283">M=Monrovia|Africa/Monrovia</string>
+    <string name="C284">C=Colombo|Asia/Colombo</string>
+    <string name="C285">C=Chihuahua|America/Chihuahua</string>
+    <string name="C286">S=Salvador|America/Sao_Paulo</string>
+    <string name="C287">G=Gurgaon|Asia/Kolkata</string>
+    <string name="C288">M=Manchester|Europe/London</string>
+    <string name="C29">A=Anchorage|America/Anchorage</string>
+    <string name="C290">S=St. Petersburg|Europe/Moscow</string>
+    <string name="C291">K=Kraków|Europe/Warsaw</string>
+    <string name="C292">W=Wroclaw|Europe/Warsaw</string>
+    <string name="C293">H=Hamburg|Europe/Berlin</string>
+    <string name="C294">O=Oulu|Europe/Bucharest</string>
+    <string name="C295">H=Haifa|Asia/Jerusalem</string>
+    <string name="C296">S=San Juan|America/Puerto_Rico</string>
+    <string name="C297">T=Tegucigalpa|America/Tegucigalpa</string>
+    <string name="C298">P=Paramaribo|America/Paramaribo</string>
+    <string name="C299">Q=Quito|America/Panama</string>
+    <string name="C3">A=Addis Ababa|Africa/Addis_Ababa</string>
+    <string name="C300">L=Ljubljana|Europe/Ljubljana</string>
+    <string name="C301">A=Ashgabat|Asia/Ashgabat</string>
+    <string name="C302">A=Asmara|Africa/Asmara</string>
+    <string name="C303">B=Bandar Seri Begawan|Asia/Brunei</string>
+    <string name="C304">B=Bangui|Africa/Bangui</string>
+    <string name="C305">B=Banjul|Africa/Banjul</string>
+    <string name="C306">B=Bishkek|Asia/Bishkek</string>
+    <string name="C307">B=Bissau|Africa/Bissau</string>
+    <string name="C308">B=Bujumbura|Africa/Bujumbura</string>
+    <string name="C309">D=Dili|Asia/Dili</string>
+    <string name="C31">A=Aruba|America/Aruba</string>
+    <string name="C310">D=Dushanbe|Asia/Dushanbe</string>
+    <string name="C311">F=Funafuti|Pacific/Funafuti</string>
+    <string name="C312">H=Honiara|Pacific/Guadalcanal</string>
+    <string name="C313">J=Juba|Africa/Juba</string>
+    <string name="C314">K=Kingstown|America/St_Vincent</string>
+    <string name="C315">L=Libreville|Africa/Libreville</string>
+    <string name="C316">L=Lomé|Africa/Lome</string>
+    <string name="C317">L=Luanda|Africa/Luanda</string>
+    <string name="C318">L=Lusaka|Africa/Lusaka</string>
+    <string name="C319">M=Majuro|Pacific/Majuro</string>
+    <string name="C32">A=Asunción|America/Asuncion</string>
+    <string name="C320">M=Malabo|Africa/Malabo</string>
+    <string name="C321">M=Maputo|Africa/Maputo</string>
+    <string name="C322">M=Mbabane|Africa/Mbabane</string>
+    <string name="C323">M=Moroni|Indian/Comoro</string>
+    <string name="C324">"N=N'Djamena|Africa/Ndjamena"</string>
+    <string name="C325">N=Ngerulmud|Pacific/Palau</string>
+    <string name="C326">N=Niamey|Africa/Niamey</string>
+    <string name="C327">N=Nicosia|Europe/Nicosia</string>
+    <string name="C328">N=Nouakchott|Africa/Nouakchott</string>
+    <string name="C329">"N=Nuku'alofa|Pacific/Tongatapu"</string>
+    <string name="C33">B=Barbados|America/Barbados</string>
+    <string name="C330">O=Ouagadougou|Africa/Ouagadougou</string>
+    <string name="C331">P=Palikir|Pacific/Noumea</string>
+    <string name="C332">P=Philipsburg|America/Lower_Princes</string>
+    <string name="C333">P=Podgorica|Europe/Podgorica</string>
+    <string name="C334">P=Port Moresby|Pacific/Palau</string>
+    <string name="C335">P=Port Vila|Pacific/Efate</string>
+    <string name="C336">P=Porto-Novo|Africa/Porto-Novo</string>
+    <string name="C337">P=Priština|Europe/Belgrade</string>
+    <string name="C338">R=Roseau|America/Dominica</string>
+    <string name="C339">T=Tashkent|Asia/Tashkent</string>
+    <string name="C34">B=Belize|America/Belize</string>
+    <string name="C340">T=Tbilisi|Asia/Tbilisi</string>
+    <string name="C341">T=Thimphu|Asia/Thimphu</string>
+    <string name="C342">T=Tirana|Europe/Tirane</string>
+    <string name="C343">V=Vaduz|Europe/Vaduz</string>
+    <string name="C344">V=Vientiane|Asia/Vientiane</string>
+    <string name="C345">W=Windhoek|Africa/Windhoek</string>
+    <string name="C346">Y=Yaoundé|Africa/Douala</string>
+    <string name="C347">Y=Yaren District|Pacific/Nauru</string>
+    <string name="C348">Y=Yerevan|Asia/Yerevan</string>
+    <string name="C35">B=Bogotá|America/Bogota</string>
+    <string name="C36">B=Buenos Aires|America/Buenos_Aires</string>
+    <string name="C37">C=Cancun|America/Cancun</string>
+    <string name="C38">C=Caracas|America/Caracas</string>
+    <string name="C39">C=Cayman|America/Cayman</string>
+    <string name="C4">A=Algiers|Africa/Algiers</string>
+    <string name="C40">C=Chicago|America/Chicago</string>
+    <string name="C42">C=Curaçao|America/Curacao</string>
+    <string name="C43">D=Dawson Creek|America/Dawson_Creek</string>
+    <string name="C44">D=Denver|America/Denver</string>
+    <string name="C45">D=Detroit|America/Detroit</string>
+    <string name="C46">D=Dominica|America/Dominica</string>
+    <string name="C47">E=Edmonton|America/Edmonton</string>
+    <string name="C48">E=El Salvador|America/El_Salvador</string>
+    <string name="C49">F=Fortaleza|America/Fortaleza</string>
+    <string name="C5">B=Blantyre|Africa/Blantyre</string>
+    <string name="C50">G=Grand Turk|America/Grand_Turk</string>
+    <string name="C500">O=:|Asia/Tokyo</string>
+    <string name="C501">T=:|Asia/Tokyo</string>
+    <string name="C51">G=Grenada|America/Grenada</string>
+    <string name="C52">G=Guatemala City|America/Guatemala</string>
+    <string name="C53">G=Guyana|America/Guyana</string>
+    <string name="C54">H=Halifax|America/Halifax</string>
+    <string name="C55">H=Havana|America/Havana</string>
+    <string name="C56">I=Indianapolis|America/Indiana/Indianapolis</string>
+    <string name="C57">K=Knox|America/Indiana/Knox</string>
+    <string name="C58">M=Marengo|America/Indiana/Marengo</string>
+    <string name="C59">P=Petersburg|America/Indiana/Petersburg</string>
+    <string name="C6">B=Brazzaville|Africa/Brazzaville</string>
+    <string name="C60">T=Tell City|America/Indiana/Tell_City</string>
+    <string name="C61">V=Vevay|America/Indiana/Vevay</string>
+    <string name="C62">V=Vincennes|America/Indiana/Vincennes</string>
+    <string name="C63">W=Winamac|America/Indiana/Winamac</string>
+    <string name="C64">K=Kingston|America/Jamaica</string>
+    <string name="C65">N=Nuestra Señora de La Paz|America/La_Paz</string>
+    <string name="C66">L=Lima|America/Lima</string>
+    <string name="C67">L=Los Angeles|America/Los_Angeles</string>
+    <string name="C68">L=Louisville|America/Louisville</string>
+    <string name="C69">M=Managua|America/Managua</string>
+    <string name="C7">C=Cairo|Africa/Cairo</string>
+    <string name="C70">M=Martinique|America/Martinique</string>
+    <string name="C71">M=Mendoza|America/Mendoza</string>
+    <string name="C72">M=Metlakatla|America/Metlakatla</string>
+    <string name="C73">M=Mexico City|America/Mexico_City</string>
+    <string name="C74">M=Monterrey|America/Monterrey</string>
+    <string name="C75">M=Montevideo|America/Montevideo</string>
+    <string name="C76">M=Montreal|America/Montreal</string>
+    <string name="C77">N=Nassau|America/Nassau</string>
+    <string name="C78">N=New York|America/New_York</string>
+    <string name="C79">B=Beulah|America/North_Dakota/Beulah</string>
+    <string name="C8">C=Casablanca|Africa/Casablanca</string>
+    <string name="C80">C=Center|America/North_Dakota/Center</string>
+    <string name="C81">N=New Salem|America/North_Dakota/New_Salem</string>
+    <string name="C82">P=Panama|America/Panama</string>
+    <string name="C83">P=Phoenix|America/Phoenix</string>
+    <string name="C84">P=Port of Spain|America/Port_of_Spain</string>
+    <string name="C85">P=Port-au-Prince|America/Port-au-Prince</string>
+    <string name="C86">P=Puerto Rico|America/Puerto_Rico</string>
+    <string name="C87">S=Santo Domingo|America/Santo_Domingo</string>
+    <string name="C88">S=São Paulo|America/Sao_Paulo</string>
+    <string name="C89">S=St. Johns|America/St_Johns</string>
+    <string name="C9">C=Conakry|Africa/Conakry</string>
+    <string name="C90">S=St. Kitts|America/St_Kitts</string>
+    <string name="C91">S=St. Lucia|America/St_Lucia</string>
+    <string name="C92">S=St. Thomas|America/St_Thomas</string>
+    <string name="C93">T=Tijuana|America/Tijuana</string>
+    <string name="C94">T=Toronto|America/Toronto</string>
+    <string name="C95">V=Vancouver|America/Vancouver</string>
+    <string name="C96">W=Winnipeg|America/Winnipeg</string>
+    <string name="C97">S=South Pole:|Antarctica/South_Pole</string>
+    <string name="C98">L=Longyearbyen|Arctic/Longyearbyen</string>
+    <string name="C99">A=Almaty|Asia/Almaty</string>
+    <string name="CronetProviderClassName">com.google.android.gms.net.PlayServicesCronetProvider</string>
+    <string name="D1">"Abidjan|Abidjan, Lagunes Region, Côte d'Ivoire"</string>
+    <string name="D10">Dakar|Dakar, Dakar Region, Senegal</string>
+    <string name="D100">Amman|Amman, Amman Governorate, Jordan</string>
+    <string name="D101">Anadyr|Anadyr, Chukotka Autonomous Okrug, Russia</string>
+    <string name="D102">Aktau|Aktau, Mangystau Province, Kazakhstan</string>
+    <string name="D103">Baghdad|Baghdad, Baghdad Governorate, Iraq</string>
+    <string name="D104">Manama|Manama, Capital Governorate, Bahrain</string>
+    <string name="D105">Baku|Baku, Azerbaijan</string>
+    <string name="D106">Bangkok|Bangkok Thailand</string>
+    <string name="D107">Beirut|Beirut, Beirut Governorate, Lebanon</string>
+    <string name="D108">Kolkata|Kolkata, West Bengal, India</string>
+    <string name="D109">Damascus|Damascus, Syria</string>
+    <string name="D11">Dar es Salaam|Dar es Salaam, Tanzania</string>
+    <string name="D110">Dhaka|Dhaka, Dhaka Division, Bangladesh</string>
+    <string name="D111">Dubai|Dubai - United Arab Emirates</string>
+    <string name="D112">Gaza|Gaza</string>
+    <string name="D113">Hebron|Hebron</string>
+    <string name="D114">Ho Chi Minh City|Ho Chi Minh City, Ho Chi Minh, Vietnam</string>
+    <string name="D115">Hong Kong|Hong Kong</string>
+    <string name="D117">Jakarta|Jakarta, Indonesia</string>
+    <string name="D118">Jerusalem|Jerusalem, Israel</string>
+    <string name="D119">Kabul|Kabul, Afghanistan</string>
+    <string name="D12">Djibouti|Djibouti</string>
+    <string name="D120">Karachi|Karachi, Sindh, Pakistan</string>
+    <string name="D121">Kathmandu|Kathmandu, Central Development Region, Nepal</string>
+    <string name="D122">Kuala Lumpur|Kuala Lumpur Federal Territory of Kuala Lumpur Malaysia</string>
+    <string name="D123">Kuwait City|Kuwait City, Al Asimah Governate, Kuwait</string>
+    <string name="D124">Macau|Macau</string>
+    <string name="D125">Manila|Manila, NCR, Philippines</string>
+    <string name="D126">Muscat|Muscat, Muscat Governorate, Oman</string>
+    <string name="D127">Phnom Penh|Phnom Penh, Cambodia</string>
+    <string name="D128">Pyongyang|Pyongyang, North Korea</string>
+    <string name="D13">Freetown|Freetown, Sierra Leone</string>
+    <string name="D130">Yangon|Yangon, Yangon Region, Myanmar (Burma)</string>
+    <string name="D131">Riyadh|Riyadh, Riyadh Province, Saudi Arabia</string>
+    <string name="D133">Seoul|Seoul, South Korea</string>
+    <string name="D134">Shanghai|Shanghai, China</string>
+    <string name="D135">Singapore|Singapore</string>
+    <string name="D136">Taipei|Taipei, Taiwan</string>
+    <string name="D137">Tehran|Tehran, Tehran Province, Iran</string>
+    <string name="D138">Tel Aviv-Yafo|Tel Aviv-Yafo, Israel</string>
+    <string name="D139">Tokyo|Tokyo, Japan</string>
+    <string name="D14">Gaborone|Gaborone, South-East District, Botswana</string>
+    <string name="D140">Ulaanbaatar|Ulaanbaatar, Mongolia</string>
+    <string name="D141">Hamilton|Hamilton, Bermuda</string>
+    <string name="D142">Santa Cruz de Tenerife|Santa Cruz de Tenerife, Spain</string>
+    <string name="D143">Santa Maria|Santa Maria, Cape Verde</string>
+    <string name="D144">Reykjavík|Reykjavík, Iceland</string>
+    <string name="D145">Stanley|Stanley FIQQ 1ZZ, Falkland Islands (Islas Malvinas)</string>
+    <string name="D146">Adelaide|Adelaide, South Australia, Australia</string>
+    <string name="D147">Brisbane City|Brisbane City, Queensland, Australia</string>
+    <string name="D148">Canberra|Canberra, Australian Capital Territory, Australia</string>
+    <string name="D149">Darwin|Darwin, Northern Territory, Australia</string>
+    <string name="D15">Harare|Harare, Harare Province, Zimbabwe</string>
+    <string name="D150">Melbourne|Melbourne, Victoria, Australia</string>
+    <string name="D151" />
+    <string name="D152">Perth|Perth, Western Australia, Australia</string>
+    <string name="D153" />
+    <string name="D154">Sydney|Sydney, New South Wales, Australia</string>
+    <string name="D155" />
+    <string name="D156" />
+    <string name="D157">Regina|Regina, SK, Canada</string>
+    <string name="D158">Hanga Roa|Hanga Roa, Chile</string>
+    <string name="D159">Amsterdam|Amsterdam, Netherlands</string>
+    <string name="D16">Johannesburg|Johannesburg, Gauteng, South Africa</string>
+    <string name="D160">Andorra la Vella|Andorra la Vella, Andorra</string>
+    <string name="D161">Athens|Athens, Greece</string>
+    <string name="D162">Belfast|Belfast, United Kingdom</string>
+    <string name="D163">Belgrade|Belgrade</string>
+    <string name="D164">Berlin|Berlin, Germany</string>
+    <string name="D165">Bratislava|Bratislava, Slovakia</string>
+    <string name="D166">Brussels|Brussels, Belgium</string>
+    <string name="D167">Bucharest|Bucharest, Romania</string>
+    <string name="D168">Budapest|Budapest, Hungary</string>
+    <string name="D169">Chisinau|Chisinau, Moldova</string>
+    <string name="D17">Kampala|Kampala, Central Region, Uganda</string>
+    <string name="D170">Copenhagen|Copenhagen, Denmark</string>
+    <string name="D171">Dublin|Dublin, Ireland</string>
+    <string name="D172">Gibraltar|Gibraltar</string>
+    <string name="D173">Helsinki|Helsinki, Finland</string>
+    <string name="D174">Douglas|Douglas, Isle of Man</string>
+    <string name="D175">Istanbul|Istanbul, Turkey</string>
+    <string name="D176">Kiev|Kiev, Kyiv city, Ukraine</string>
+    <string name="D177">Lisbon|Lisbon, Portugal</string>
+    <string name="D178">London|London, United Kingdom</string>
+    <string name="D179">Luxembourg City|Luxembourg City, Luxembourg</string>
+    <string name="D18">Khartoum|Khartoum, Sudan</string>
+    <string name="D180">Madrid|Madrid, Spain</string>
+    <string name="D181">Valletta|Valletta, Malta</string>
+    <string name="D182">Minsk|Minsk, Belarus</string>
+    <string name="D183">Monaco-Ville|Monaco-Ville, Monaco</string>
+    <string name="D184">Moscow|Moscow, Russia</string>
+    <string name="D185">Oslo|Oslo, Norway</string>
+    <string name="D186">Paris|Paris, France</string>
+    <string name="D187">Prague|Prague, Czechia</string>
+    <string name="D188">Riga|Riga, Latvia</string>
+    <string name="D189">Rome|Rome, Metropolitan City of Rome, Italy</string>
+    <string name="D19">Kigali|Kigali, Kigali City, Rwanda</string>
+    <string name="D190">San Marino|San Marino</string>
+    <string name="D191">Sarajevo|Sarajevo, Federation of Bosnia and Herzegovina, Bosnia and Herzegovina</string>
+    <string name="D192">Simferopol|Simferopol, Crimea</string>
+    <string name="D193">Skopje|Skopje, Macedonia (FYROM)</string>
+    <string name="D194">Sofia|Sofia, Bulgaria</string>
+    <string name="D195">Stockholm|Stockholm, Sweden</string>
+    <string name="D196">Tallinn|Tallinn, Tallinna linn, Estonia</string>
+    <string name="D197">Vatican City|Vatican City</string>
+    <string name="D198">Vienna|Vienna, Austria</string>
+    <string name="D199">Vilnius|Vilnius, Vilnius County, Lithuania</string>
+    <string name="D2">Accra|Accra, Greater Accra Region, Ghana</string>
+    <string name="D20">Kinshasa|Kinshasa, Democratic Republic of the Congo</string>
+    <string name="D200">Warsaw|Warsaw, Poland</string>
+    <string name="D201">Zagreb|Zagreb, Croatia</string>
+    <string name="D202">Zürich|Zürich, Switzerland</string>
+    <string name="D203">Antananarivo|Antananarivo, Antananarivo Province, Madagascar</string>
+    <string name="D204">Malé|Malé, Male, Maldives</string>
+    <string name="D205">Port Louis|Port Louis, Port Louis District, Mauritius</string>
+    <string name="D206">Auckland|Auckland, New Zealand</string>
+    <string name="D207">Suva|Suva, Central Division, Fiji</string>
+    <string name="D208">Tutuhan|Tutuhan, Guam</string>
+    <string name="D209">Honolulu|Honolulu, HI, United States</string>
+    <string name="D21">Lagos|Lagos, Nigeria</string>
+    <string name="D210">Banana|Banana, Kiribati</string>
+    <string name="D211">Noumea|Noumea, South Province, New Caledonia</string>
+    <string name="D214">"Saint John's|Saint John's, Saint John, Antigua and Barbuda"</string>
+    <string name="D215">Austin|Austin, TX, United States</string>
+    <string name="D216">Boston|Boston, MA, United States</string>
+    <string name="D217">Calgary|Calgary, AB, Canada</string>
+    <string name="D218">Columbus|Columbus, OH, United States</string>
+    <string name="D219">Dallas|Dallas, TX, United States</string>
+    <string name="D22">Maseru|Maseru, Lesotho</string>
+    <string name="D220">Knoxville|Knoxville, TN, United States</string>
+    <string name="D221">Memphis|Memphis, TN, United States</string>
+    <string name="D222">Miami|Miami, FL, United States</string>
+    <string name="D223">Minneapolis|Minneapolis, MN, United States</string>
+    <string name="D224">Ottawa|Ottawa, OH, United States</string>
+    <string name="D225">Philadelphia|Philadelphia, PA, United States</string>
+    <string name="D226">Portland|Portland, OR, United States</string>
+    <string name="D227">San Diego|San Diego, CA, United States</string>
+    <string name="D228">San Francisco|San Francisco, CA, United States</string>
+    <string name="D229">Salt Lake City|Salt Lake City, UT, United States</string>
+    <string name="D23">Mogadishu|Mogadishu, Banaadir, Somalia</string>
+    <string name="D230">San Jose|San Jose, CA, United States</string>
+    <string name="D231">San Salvador|San Salvador, San Salvador Department, El Salvador</string>
+    <string name="D232">Seattle|Seattle, WA, United States</string>
+    <string name="D233">St. Louis|St. Louis, MO, United States</string>
+    <string name="D234">Washington|Washington, DC, United States</string>
+    <string name="D235">Houston|Houston, TX, United States</string>
+    <string name="D236">San Antonio|San Antonio, TX, United States</string>
+    <string name="D237">Jacksonville|Jacksonville, FL, United States</string>
+    <string name="D238">Baltimore|Baltimore, MD, United States</string>
+    <string name="D239">Nashville|Nashville, TN, United States</string>
+    <string name="D24">Nairobi|Nairobi, Nairobi County, Kenya</string>
+    <string name="D240">Milwaukee|Milwaukee, WI, United States</string>
+    <string name="D241">Oklahoma City|Oklahoma City, OK, United States</string>
+    <string name="D242">Las Vegas|Las Vegas, NV, United States</string>
+    <string name="D243">Albuquerque|Albuquerque, NM, United States</string>
+    <string name="D244">Tucson|Tucson, AZ, United States</string>
+    <string name="D245">Sacramento|Sacramento, CA, United States</string>
+    <string name="D246">Atlanta|Atlanta, GA, United States</string>
+    <string name="D247">Cleveland|Cleveland, OH, United States</string>
+    <string name="D248">New Orleans|New Orleans, LA, United States</string>
+    <string name="D249">Tampa|Tampa, FL, United States</string>
+    <string name="D25">São Tomé|São Tomé, Sao Tome, São Tomé and Príncipe</string>
+    <string name="D250">Pittsburgh|Pittsburgh, PA, United States</string>
+    <string name="D251">Cincinnati|Cincinnati, OH, United States</string>
+    <string name="D252">Mountain View|Mountain View, CA, United States</string>
+    <string name="D253">Reno|Reno, NV, United States</string>
+    <string name="D254">Black Rock|Black Rock, OR, United States</string>
+    <string name="D255">Doha|Doha, Qatar</string>
+    <string name="D256">Beijing|Beijing, China</string>
+    <string name="D257">Mumbai|Mumbai, Maharashtra, India</string>
+    <string name="D258">Delhi|Delhi, India</string>
+    <string name="D259">Osaka|Osaka, Osaka Prefecture, Japan</string>
+    <string name="D26">Timbuktu|Timbuktu, Tombouctou Region, Mali</string>
+    <string name="D260">Lahore|Lahore, Punjab, Pakistan</string>
+    <string name="D261">"Sana'a|Sana'a, Capital Municipality, Yemen"</string>
+    <string name="D262">Barcelona|Barcelona, Spain</string>
+    <string name="D263">Munich|Munich, Germany</string>
+    <string name="D264">Milan|Milan, Metropolitan City of Milan, Italy</string>
+    <string name="D265">Frankfurt|Frankfurt, Germany</string>
+    <string name="D266">Hanoi|Hanoi, Vietnam</string>
+    <string name="D267">Ankara|Ankara, Turkey</string>
+    <string name="D268">Bengaluru|Bengaluru, Karnataka, India</string>
+    <string name="D269">Brasília|Brasília - Federal District, Brazil</string>
+    <string name="D27">Tripoli|Tripoli, Tripoli District, Libya</string>
+    <string name="D270">Cape Town|Cape Town, Western Cape, South Africa</string>
+    <string name="D271">Islamabad|Islamabad, Islamabad Capital Territory, Pakistan</string>
+    <string name="D272">Rio de Janeiro|Rio de Janeiro - State of Rio de Janeiro, Brazil</string>
+    <string name="D273">Ann Arbor|Ann Arbor, MI, United States</string>
+    <string name="D274">Boulder|Boulder, CO, United States</string>
+    <string name="D275">Cambridge|Cambridge, MA, United States</string>
+    <string name="D276">Kirkland|Kirkland, WA, United States</string>
+    <string name="D277">Madison|Madison, WI, United States</string>
+    <string name="D278">Guangzhou|Guangzhou, Guangdong, China</string>
+    <string name="D279">Hyderabad|Hyderabad, Telangana, India</string>
+    <string name="D28">Tunis|Tunis, Tunisia</string>
+    <string name="D280">Reston|Reston, VA, United States</string>
+    <string name="D281">Belo Horizonte|Belo Horizonte - State of Minas Gerais, Brazil</string>
+    <string name="D282">Santiago|Santiago, Chile</string>
+    <string name="D283">Monrovia|Monrovia, Montserrado, Liberia</string>
+    <string name="D284">Colombo|Colombo, Western Province, Sri Lanka</string>
+    <string name="D285">Chihuahua|Chihuahua, Mexico</string>
+    <string name="D286">Salvador|Salvador - State of Bahia, Brazil</string>
+    <string name="D287">Gurugram|Gurugram, Haryana, India</string>
+    <string name="D288">Manchester|Manchester, United Kingdom</string>
+    <string name="D29">Anchorage|Anchorage, AK, United States</string>
+    <string name="D290">Saint Petersburg|Saint Petersburg, Russia</string>
+    <string name="D291">Kraków|Kraków, Poland</string>
+    <string name="D292">Wrocław|Wrocław, Poland</string>
+    <string name="D293">Hamburg|Hamburg, Germany</string>
+    <string name="D294">Oulu|Oulu, Finland</string>
+    <string name="D295">Haifa|Haifa, Israel</string>
+    <string name="D296">San Juan|San Juan, Puerto Rico</string>
+    <string name="D297">Tegucigalpa|Tegucigalpa, Francisco Morazán Department, Honduras</string>
+    <string name="D298">Paramaribo|Paramaribo, Paramaribo District, Suriname</string>
+    <string name="D299">Quito|Quito, Pichincha, Ecuador</string>
+    <string name="D3">Addis Ababa|Addis Ababa, Ethiopia</string>
+    <string name="D300">Ljubljana|Ljubljana, Slovenia</string>
+    <string name="D301">Ashgabat|Ashgabat, Turkmenistan</string>
+    <string name="D302">Asmara|Asmara, Central, Eritrea</string>
+    <string name="D303">Bandar Seri Begawan|Bandar Seri Begawan, Brunei-Muara District, Brunei</string>
+    <string name="D304">Bangui|Bangui, Central African Republic</string>
+    <string name="D305">Banjul|Banjul, The Gambia</string>
+    <string name="D306">Bishkek|Bishkek, Kyrgyzstan</string>
+    <string name="D307">Bissau|Bissau, Guinea-Bissau</string>
+    <string name="D308">Bujumbura|Bujumbura, Bujumbura Mairie, Burundi</string>
+    <string name="D309">Díli|Díli, Dili, Timor-Leste</string>
+    <string name="D31">Oranjestad|Oranjestad, Aruba</string>
+    <string name="D310">Dushanbe|Dushanbe, Tajikistan</string>
+    <string name="D311">Vaiaku|Vaiaku, Funafuti, Tuvalu</string>
+    <string name="D312">Honiara|Honiara, Capital Territory, Solomon Islands</string>
+    <string name="D313">Juba|Juba, Central Equatoria, South Sudan</string>
+    <string name="D314">Kingstown|Kingstown, Saint George, Saint Vincent and the Grenadines</string>
+    <string name="D315">Libreville|Libreville, Estuaire, Gabon</string>
+    <string name="D316">Lome|Lome, Maritime Region, Togo</string>
+    <string name="D317">Luanda|Luanda, Luanda Province, Angola</string>
+    <string name="D318">Lusaka|Lusaka, Lusaka Province, Zambia</string>
+    <string name="D319">Majuro|Majuro, Majuro Atoll, Marshall Islands</string>
+    <string name="D32">Asuncion|Asuncion, Paraguay</string>
+    <string name="D320">Malabo|Malabo, Bioko Norte, Equatorial Guinea</string>
+    <string name="D321">Maputo|Maputo, Maputo City, Mozambique</string>
+    <string name="D322">Mbabane|Mbabane, Hhohho Region, Swaziland</string>
+    <string name="D323">Moroni|Moroni, Ngazidja, Comoros</string>
+    <string name="D324">"N'Djamena|N'Djamena, Chad"</string>
+    <string name="D325">Ngerulmud|Ngerulmud, Melekeok, Palau</string>
+    <string name="D326">Niamey|Niamey, Niamey Urban Community, Niger</string>
+    <string name="D327">Nicosia|Nicosia, Cyprus</string>
+    <string name="D328">Nouakchott|Nouakchott, Mauritania</string>
+    <string name="D329">"Nuku'alofa|Nuku'alofa, Tongatapu, Tonga"</string>
+    <string name="D33">Bridgetown|Bridgetown, Saint Michael, Barbados</string>
+    <string name="D330">Ouagadougou|Ouagadougou, Centre Region, Burkina Faso</string>
+    <string name="D331">Palikir|Palikir, Pohnpei, Federated States of Micronesia</string>
+    <string name="D332">Philipsburg|Philipsburg, Sint Maarten</string>
+    <string name="D333">Podgorica|Podgorica, Podgorica Municipality, Montenegro</string>
+    <string name="D334">Port Moresby|Port Moresby, National Capital District, Papua New Guinea</string>
+    <string name="D335">Port Vila|Port Vila, Shefa Province, Vanuatu</string>
+    <string name="D336">Porto Novo|Porto Novo, Ouémé Department, Benin</string>
+    <string name="D337">Prishtina|Prishtina, Pristina District</string>
+    <string name="D338">Roseau|Roseau, Saint George Parish, Dominica</string>
+    <string name="D339">Tashkent|Tashkent, Uzbekistan</string>
+    <string name="D34">Belize City|Belize City, Belize District, Belize</string>
+    <string name="D340">Tbilisi|Tbilisi, Georgia</string>
+    <string name="D341">Thimphu|Thimphu, Bhutan</string>
+    <string name="D342">Tirana|Tirana, Tirana County, Albania</string>
+    <string name="D343">Vaduz|Vaduz, Liechtenstein</string>
+    <string name="D344">Vientiane|Vientiane, Vientiane Prefecture, Laos</string>
+    <string name="D345">Windhoek|Windhoek, Khomas Region, Namibia</string>
+    <string name="D346">Yaounde|Yaounde, Centre, Cameroon</string>
+    <string name="D347">Yaren|Yaren, Nauru</string>
+    <string name="D348">Yerevan|Yerevan, Armenia</string>
+    <string name="D35">Bogotá|Bogotá - Bogota, Colombia</string>
+    <string name="D36">Buenos Aires|Buenos Aires, Argentina</string>
+    <string name="D37">Cancún|Cancún, Mexico</string>
+    <string name="D38">Caracas|Caracas, Capital District, Venezuela</string>
+    <string name="D39">George Town|George Town, Cayman Islands</string>
+    <string name="D4">Algiers|Algiers, Algiers Province, Algeria</string>
+    <string name="D40">Chicago|Chicago, IL, United States</string>
+    <string name="D42">Willemstad|Willemstad, Curaçao</string>
+    <string name="D43">Dawson Creek|Dawson Creek, BC, Canada</string>
+    <string name="D44">Denver|Denver, CO, United States</string>
+    <string name="D45">Detroit|Detroit, MI, United States</string>
+    <string name="D46" />
+    <string name="D47">Edmonton|Edmonton, AB, Canada</string>
+    <string name="D48" />
+    <string name="D49">Fortaleza|Fortaleza - State of Ceará, Brazil</string>
+    <string name="D5">Blantyre|Blantyre, Southern Region, Malawi</string>
+    <string name="D50">Cockburn Town|Cockburn Town, Turks Islands, Turks and Caicos Islands</string>
+    <string name="D500">Osaka|Osaka, Osaka Prefecture, Japan</string>
+    <string name="D501">Tokyo|Tokyo, Japan</string>
+    <string name="D51">"Saint George's|Saint George's, Saint George, Grenada"</string>
+    <string name="D52">Guatemala City|Guatemala City, Guatemala Department, Guatemala</string>
+    <string name="D53">Georgetown|Georgetown, Guyana</string>
+    <string name="D54">Halifax|Halifax, NS, Canada</string>
+    <string name="D55">Havana|Havana, Cuba</string>
+    <string name="D56">Indianapolis|Indianapolis, IN, United States</string>
+    <string name="D57">Knox|Knox, IN, United States</string>
+    <string name="D58">Marengo|Marengo, IN, United States</string>
+    <string name="D59">Petersburg|Petersburg, IN, United States</string>
+    <string name="D6">Brazzaville|Brazzaville, Republic of the Congo</string>
+    <string name="D60">Tell City|Tell City, IN, United States</string>
+    <string name="D61">Vevay|Vevay, IN, United States</string>
+    <string name="D62">Vincennes|Vincennes, IN, United States</string>
+    <string name="D63">Winamac|Winamac, IN, United States</string>
+    <string name="D64">Kingston|Kingston, Jamaica</string>
+    <string name="D65">La Paz|La Paz, La Paz Department, Bolivia</string>
+    <string name="D66">Lima District|Lima District, Lima Region, Peru</string>
+    <string name="D67">Los Angeles|Los Angeles, CA, United States</string>
+    <string name="D68">Louisville|Louisville, KY, United States</string>
+    <string name="D69">Managua|Managua, Managua Department, Nicaragua</string>
+    <string name="D7">Cairo|Cairo, Cairo Governorate, Egypt</string>
+    <string name="D70">Arrondissement of La Trinité|Arrondissement of La Trinité, Martinique</string>
+    <string name="D71">Mendoza|Mendoza, Mendoza Province, Argentina</string>
+    <string name="D72">Metlakatla|Metlakatla, AK, United States</string>
+    <string name="D73">Mexico City|Mexico City, Mexico</string>
+    <string name="D74">Monterrey|Monterrey, Mexico</string>
+    <string name="D75">Montevideo|Montevideo, Montevideo Department, Uruguay</string>
+    <string name="D76">Montreal|Montreal, QC, Canada</string>
+    <string name="D77">Nassau|Nassau, New Providence, The Bahamas</string>
+    <string name="D78">New York|New York, NY, United States</string>
+    <string name="D79">Beulah|Beulah, ND, United States</string>
+    <string name="D8">Casablanca|Casablanca, Grand Casablanca, Morocco</string>
+    <string name="D80">Center|Center, ND 58530, USA</string>
+    <string name="D81">New Salem|New Salem, ND, United States</string>
+    <string name="D82">Panama City|Panama City, Panama</string>
+    <string name="D83">Phoenix|Phoenix, AZ, United States</string>
+    <string name="D84">Port of Spain|Port of Spain, Trinidad and Tobago</string>
+    <string name="D85">Port-au-Prince|Port-au-Prince, Ouest Department, Haiti</string>
+    <string name="D86" />
+    <string name="D87">Santo Domingo|Santo Domingo, Distrito Nacional, Dominican Republic</string>
+    <string name="D88">São Paulo|São Paulo - State of São Paulo, Brazil</string>
+    <string name="D89">"St. John's|St. John's, NL, Canada"</string>
+    <string name="D9">Conakry|Conakry, Guinea</string>
+    <string name="D90">Basseterre|Basseterre, Saint George Basseterre Parish, Saint Kitts and Nevis</string>
+    <string name="D91">Castries|Castries, Saint Lucia</string>
+    <string name="D92">Charlotte Amalie|Charlotte Amalie, St. Thomas, U.S. Virgin Islands</string>
+    <string name="D93">Tijuana|Tijuana, Mexico</string>
+    <string name="D94">Toronto|Toronto, ON, Canada</string>
+    <string name="D95">Vancouver|Vancouver, BC, Canada</string>
+    <string name="D96">Winnipeg|Winnipeg, MB, Canada</string>
+    <string name="D97">Antarctic Great Wall Station|Antarctic Great Wall Station, Antarctica</string>
+    <string name="D98">Longyearbyen|Longyearbyen, Svalbard and Jan Mayen</string>
+    <string name="D99">Almaty|Almaty, Almaty Province, Kazakhstan</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="analog_clock_bold_card_title">Bold</string>
+    <string name="analog_clock_config_title">Select A Clock Face</string>
+    <string name="analog_clock_desc">Display the current time</string>
+    <string name="analog_clock_name">Analogue</string>
+    <string name="analog_clock_scale_card_title">Scale</string>
+    <string name="androidx_startup">androidx.startup</string>
+    <string name="app_name">Nothing Widgets</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="authentication_required">Authentication required</string>
+    <string name="back_description">Back button</string>
+    <string name="battery_content_desc">Battery %1$s %2$s %3$s</string>
+    <string name="battery_desc">"Show multiple devices' battery levels"</string>
+    <string name="battery_dialog_setting_msg">"Nothing Widgets needs permission to show detailed information.
+
+Please go to Settings > Permissions > Nearby devices > Allow to find, connect to and determine the relative position of nearby devices."</string>
+    <string name="battery_dialog_setting_title">Allow Nearby Devices Access</string>
+    <string name="battery_multiple">Multiple</string>
+    <string name="battery_permission_need">@string/screen_time_usage_access_permission_needed</string>
+    <string name="battery_single">Single</string>
+    <string name="battery_small_desc">Show latest device battery level</string>
+    <string name="battery_title">Battery</string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
+    <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
+    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
+    <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+    <string name="breath_calm_desc">Calm your mind. Find balance.</string>
+    <string name="breath_calms_animation">calms breathing animation</string>
+    <string name="breath_confirm_button">Confirm Button</string>
+    <string name="breath_exercise_running">Breathing Exercise</string>
+    <string name="breath_exercise_running_desc">Breathing exercise is running in the background</string>
+    <string name="breath_flip_notification_permission_desc">Breathing break widget requires notification permissions to run on glyph matrix.</string>
+    <string name="breath_flip_notification_permission_desc2">Please enable notifications to run on glyph matrix.</string>
+    <string name="breath_flip_notification_permission_title">@string/breath_setting_Flip</string>
+    <string name="breath_flip_to_glyph_matrix">Breathe on Glyph when screen faces down.</string>
+    <string name="breath_focus_animation">focus breathing animation</string>
+    <string name="breath_focus_desc">Reduce stress. Increase focus.</string>
+    <string name="breath_group_name">Breathing break</string>
+    <string name="breath_intro_breath_on_glyph">Breath on Glyph</string>
+    <string name="breath_intro_guide_desc">Guided breathing helps reduce stress, retore focus and stay calm. Follow the animation, sound, and vibration to breathe along.</string>
+    <string name="breath_intro_next_page">next page</string>
+    <string name="breath_intro_page2_desc">You can also place your phone face down to follow the breathing guide on Glyph Matrix.</string>
+    <string name="breath_intro_page2_go_to_setting_desc">Enable notifications to use the breathing guide on Glyph Matrix when you flip your phone. %1$s</string>
+    <string name="breath_intro_page2_permission_desc">Enable notifications to use the breathing guide on Glyph Matrix when you flip your phone.</string>
+    <string name="breath_intro_permission_dialog_desc">Allow Nothing Widget to send you notifications?</string>
+    <string name="breath_intro_text_allow">@string/breath_text_allow</string>
+    <string name="breath_intro_text_go_to_settings">Go to Settings</string>
+    <string name="breath_intro_text_not_allow">"Don't Allow"</string>
+    <string name="breath_intro_text_start_breathing">Start breathing</string>
+    <string name="breath_intro_welcome">"Welcome to
+Breathing Break"</string>
+    <string name="breath_name">Breathing</string>
+    <string name="breath_relax_animation">relax breathing animation</string>
+    <string name="breath_relax_desc">Sleep better. Ease your nervous system.</string>
+    <string name="breath_setting_Flip">Flip on Glyph Matrix</string>
+    <string name="breath_setting_Music">Music</string>
+    <string name="breath_setting_break_cycles">Break cycles</string>
+    <string name="breath_setting_calm_introduction">This practice helps calm the mind, ease inner tension, and promote a sense of balance and stability.</string>
+    <string name="breath_setting_focus_introduction">This practice helps calm your mind, reduces stress, and gradually increases your ability to stay focused.</string>
+    <string name="breath_setting_guidance">Guidance</string>
+    <string name="breath_setting_relax_introduction">This practice supports deeper, more restful sleep while soothing the nervous system for overall relaxation.</string>
+    <string name="breath_setting_time">%s times</string>
+    <string name="breath_setting_vibration">Vibration</string>
+    <string name="breath_text_allow">Allow</string>
+    <string name="breath_text_calm">Calm</string>
+    <string name="breath_text_cancel">Cancel</string>
+    <string name="breath_text_exhale">Exhale</string>
+    <string name="breath_text_focus">Focus</string>
+    <string name="breath_text_for_calm">For calm</string>
+    <string name="breath_text_for_focus">For focus</string>
+    <string name="breath_text_for_relax">For relax</string>
+    <string name="breath_text_go_to_setting">Go to setting</string>
+    <string name="breath_text_hold">Hold</string>
+    <string name="breath_text_inhale">Inhale</string>
+    <string name="breath_text_perfect">"Well done
+Your break is complete."</string>
+    <string name="breath_text_preparing">Preparing</string>
+    <string name="breath_text_relax">Relax</string>
+    <string name="breath_text_times">times</string>
+    <string name="breath_tip_msg">This feature is for general well-being only and not a medical device or medical advice. Stop if you feel uncomfortable.</string>
+    <string name="call_notification_answer_action">Answer</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Decline</string>
+    <string name="call_notification_hang_up_action">Hang Up</string>
+    <string name="call_notification_incoming_text">Incoming call</string>
+    <string name="call_notification_ongoing_text">Ongoing call</string>
+    <string name="call_notification_screening_text">Screening an incoming call</string>
+    <string name="calm_rest_music_card_description">Reduce stress. Stay relaxed.</string>
+    <string name="calm_rest_music_card_name">De-stress rest</string>
+    <string name="calm_rest_music_title">"CALM
+REST"</string>
+    <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
+    <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="chatgpt_choice_image">Vision</string>
+    <string name="chatgpt_choice_text">Text</string>
+    <string name="chatgpt_choice_voice">Voice</string>
+    <string name="chatgpt_config_title">ChatGPT</string>
+    <string name="chatgpt_desc">Quick access to ChatGPT</string>
+    <string name="chatgpt_dialog_setting_install">Install</string>
+    <string name="chatgpt_dialog_setting_msg">Install ChatGPT app to access the widget</string>
+    <string name="chatgpt_error_desc">Not installed</string>
+    <string name="chatgpt_scrollable_config_title">Input Order</string>
+    <string name="chatgpt_static_config_title">Select An Input Type</string>
+    <string name="chatgpt_widget_type_scrollable">Multiple</string>
+    <string name="chatgpt_widget_type_static">Single</string>
+    <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="close_drawer">Close navigation menu</string>
+    <string name="close_sheet">Close sheet</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="community_author_by">by %s</string>
+    <string name="community_desc">Display latest news from the Nothing community</string>
+    <string name="community_empty_body_tips">Please update to system time for the latest content</string>
+    <string name="community_headlines_des">Latest news from Nothing Community</string>
+    <string name="compass_altitude_m">m</string>
+    <string name="compass_altitude_units_ft">ft</string>
+    <string name="compass_altitude_units_m">m</string>
+    <string name="compass_desc">Display the direction</string>
+    <string name="compass_dialog_setting_msg">"Nothing Widgets needs permission to show detailed information.
+
+Please go to settings, tap Permissions - Location - Allow all the time to show your location."</string>
+    <string name="compass_dialog_setting_title">Allow Location Access</string>
+    <string name="compass_haptic">Haptic feedback</string>
+    <string name="compass_haptic_subtitle">When pointing towards a cardinal direction</string>
+    <string name="compass_permission_dialog_text">Nothing Widgets collects location data to display information on the second page of compass. Please enable Allow all the time to ensure the information is available.</string>
+    <string name="compass_title">Compass</string>
+    <string name="compass_units">Altitude units</string>
+    <string name="compass_units_ft">ft</string>
+    <string name="confirm">Confirm</string>
+    <string name="copy">Copy</string>
+    <string name="countdown_desc">Time your important moments with countdowns and count-ups</string>
+    <string name="countdown_display_day">D</string>
+    <string name="countdown_display_month">M</string>
+    <string name="countdown_display_year">Y</string>
+    <string name="countdown_event_name_empty_placeholder">Nothing</string>
+    <string name="countdown_hint_in_3_days">3 days left</string>
+    <string name="countdown_hint_in_7_days">7 days left</string>
+    <string name="countdown_hint_passed">Passed</string>
+    <string name="countdown_hint_since">Since</string>
+    <string name="countdown_hint_today">Today</string>
+    <string name="countdown_hint_until">Until</string>
+    <string name="countdown_name">Countdown</string>
+    <string name="countdown_no_event_description">No Event</string>
+    <string name="countdown_reminder_permission">"Nothing Widgets needs permission to send you reminders as the countdown nears its end.
+
+In Settings, tap Permissions and allow access to Notifications."</string>
+    <string name="countdown_reminder_permission_title">@string/media_player_enable_notification_title</string>
+    <string name="countdown_setting_count_up_desc">Count up when event passed</string>
+    <string name="countdown_setting_date">@string/date_name</string>
+    <string name="countdown_setting_date_display_desc">Display the remaining time on first page</string>
+    <string name="countdown_setting_date_picker_select_date">Select Date</string>
+    <string name="countdown_setting_dialog_cancel">@string/photo_text_cancel</string>
+    <string name="countdown_setting_dialog_ok">OK</string>
+    <string name="countdown_setting_done">Done</string>
+    <string name="countdown_setting_event_name">Name</string>
+    <string name="countdown_setting_event_name_desc">Name your countdown, e.g., Flight to London</string>
+    <string name="countdown_setting_footer">Swipe up the widget to view more information about the countdown.</string>
+    <string name="countdown_setting_format">Formats</string>
+    <string name="countdown_setting_format_day">Days</string>
+    <string name="countdown_setting_format_month">Months</string>
+    <string name="countdown_setting_format_year">Years</string>
+    <string name="countdown_setting_recurring">Recurring</string>
+    <string name="countdown_setting_recurring_monthly">Monthly</string>
+    <string name="countdown_setting_recurring_never">Never</string>
+    <string name="countdown_setting_recurring_weekly">Weekly</string>
+    <string name="countdown_setting_recurring_yearly">Yearly</string>
+    <string name="countdown_setting_reminder">Reminder</string>
+    <string name="countdown_setting_reminder_desc">Will notify you when the countdown is nearing its end</string>
+    <string name="countdown_setting_shape">Shapes</string>
+    <string name="countdown_setting_shape_desc">Give your time a wonderful shape</string>
+    <string name="countdown_setting_title_general">@string/news_reporter_category_general</string>
+    <string name="countdown_setting_title_other">Others</string>
+    <string name="date_auto_date_update">Auto date update</string>
+    <string name="date_contacts_custom">Big Day for %s</string>
+    <string name="date_contacts_event_desc" formatted="false">"%s's %s"</string>
+    <string name="date_contacts_text_anniversary">Anniversary</string>
+    <string name="date_contacts_text_birthday">Birthday</string>
+    <string name="date_contacts_text_fri">Fri</string>
+    <string name="date_contacts_text_mon">Mon</string>
+    <string name="date_contacts_text_sat">Sat</string>
+    <string name="date_contacts_text_sun">Sun</string>
+    <string name="date_contacts_text_thu">Thu</string>
+    <string name="date_contacts_text_tue">Tue</string>
+    <string name="date_contacts_text_wed">Wed</string>
+    <string name="date_desc">Track the current date and special days</string>
+    <string name="date_dialog_message">Date widget needs permission to access public holidays, birthdays, and other significant dates from your calendar and contacts.</string>
+    <string name="date_dialog_message_calendar">Date widget needs permission to access public holidays from your calendar.</string>
+    <string name="date_dialog_message_contacts">Date widget needs permission to access birthdays, and other significant dates from your contacts.</string>
+    <string name="date_dialog_title">Grant Access</string>
+    <string name="date_dialog_title_calendar">Access Your Calendar</string>
+    <string name="date_dialog_title_contacts">Access Your Contacts</string>
+    <string name="date_name">Date</string>
+    <string name="date_show_day_of_the_week">Show day of the week</string>
+    <string name="date_text_big_day">Big Day</string>
+    <string name="date_text_more">%d more</string>
+    <string name="date_tip_msg">Swipe up return to today if the date pass away. Access public holidays and birthdays through accounts.</string>
+    <string name="deep_sleep_music_title">"DEEP
+SLEEP"</string>
+    <string name="default_alert_negative">No thanks</string>
+    <string name="default_alert_positive">Agree</string>
+    <string name="default_alert_title">Terms &amp; Conditions</string>
+    <string name="default_error_message">Invalid input</string>
+    <string name="default_notification_channel_name">Now playing</string>
+    <string name="default_popup_window_title">Pop-Up Window</string>
+    <string name="dessau_city">D=Dessau|Europe/Berlin</string>
+    <string name="dessau_detail">Dessau|Dessau, Germany</string>
+    <string name="dialog_camera_permission_body">"Nothing Widgets needs permission to take photos. 
+
+Please visit Permissions > Camera and select Allow only while using the app."</string>
+    <string name="dialog_camera_permission_title">Allow camera access</string>
+    <string name="digital_clock_desc">@string/analog_clock_desc</string>
+    <string name="digital_clock_name">Digital</string>
+    <string name="download_description">Download button</string>
+    <string name="dropdown_menu">Dropdown menu</string>
+    <string name="error_a11y_label">Error: invalid</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="example_alert_content" formatted="false">"By continuing to use this feature, I confirm that I have read and accept to be bound by the %s in conjunction with Nothing's %s and %s."</string>
+    <string name="example_privacy_policy_link_text">Privacy Policy</string>
+    <string name="example_terms_supper_link_text">Terms for Usage of Recorder Widget</string>
+    <string name="example_user_agreement_link_text">User Agreement</string>
+    <string name="exo_download_completed">Download completed</string>
+    <string name="exo_download_description">Download</string>
+    <string name="exo_download_downloading">Downloading</string>
+    <string name="exo_download_failed">Download failed</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads paused</string>
+    <string name="exo_download_paused_for_network">Downloads waiting for network</string>
+    <string name="exo_download_paused_for_wifi">Downloads waiting for WiFi</string>
+    <string name="exo_download_removing">Removing downloads</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="focus_music_card_description">Calm your mind. Find focus.</string>
+    <string name="focus_music_card_name">Complete concentration</string>
+    <string name="focus_music_title">"FULL
+FOCUS"</string>
+    <string name="glyph_toy_battery_name">Battery</string>
+    <string name="glyph_toy_battery_summary">"Display your device's battery level and charging status."</string>
+    <string name="glyph_toy_bottle_name">Bottle</string>
+    <string name="glyph_toy_bottle_summary">"Spin the bottle to pick a random direction or person.
+Long Press: Spin."</string>
+    <string name="glyph_toy_breath_name">Breath</string>
+    <string name="glyph_toy_clock_name">Digital Clock</string>
+    <string name="glyph_toy_clock_summary">A clock inspired by retro 7-segment displays.</string>
+    <string name="glyph_toy_finger_guss_name">Rock, Paper, Scissors</string>
+    <string name="glyph_toy_finger_guss_summary">"Make a decision by playing against your device, or pit two devices against each other.
+Long Press: Start round."</string>
+    <string name="glyph_toy_solarclock_name">Solar Path</string>
+    <string name="glyph_toy_solarclock_summary">"Track the sun's position in the sky at your location."</string>
+    <string name="glyph_toy_stopwatch_name">Stopwatch</string>
+    <string name="glyph_toy_stopwatch_summary">"A simple stopwatch.
+Long Press: Start, stop and reset."</string>
+    <string name="hello_world_default_text">Hello World</string>
+    <string name="hello_world_settings_hint">Set the message shown on your widget.</string>
+    <string name="hello_world_settings_save">Save</string>
+    <string name="hello_world_settings_title">Hello World</string>
+    <string name="hello_world_widget_desc">Display a customizable hello message</string>
+    <string name="hello_world_widget_name">Hello World</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="icon_content_description">Dialog Icon</string>
+    <string name="in_progress">In progress</string>
+    <string name="indeterminate">Partially checked</string>
+    <string name="intelligence_detail_chatgpt_des">This widget offers a seamless way to access ChatGPT, allowing users to send voice, text, or images for instant analysis. By leveraging AI capabilities, it provides intelligent insights and responses, enhancing user interaction with the app.</string>
+    <string name="intelligence_detail_chatgpt_summary">Access ChatGPT with voice, text, or images.</string>
+    <string name="intelligence_detail_chatgpt_title">ChatGPT widget</string>
+    <string name="intelligence_detail_news_des">The AI-driven news widget produces daily audio bulletins from global sources, using voice synthesis to deliver curated summaries with contextual wit, combining intelligent content distillation and interactive playback features to streamline fragmented information consumption.</string>
+    <string name="intelligence_detail_news_summary">AI-curated audio briefings via voice synthesis with interactive retro interface.</string>
+    <string name="intelligence_detail_news_title">Essential News widget</string>
+    <string name="intelligence_extension">Extension</string>
+    <string name="intelligence_open">Open</string>
+    <string name="intelligence_try_it_out">Try it out</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="letter_0">0000,0110,1001,1001,1001,0110</string>
+    <string name="letter_0_tall">0110,1001,1001,0000,1001,1001,0110</string>
+    <string name="letter_1">0000,0010,0110,1010,0010,0010</string>
+    <string name="letter_1_tall">0000,0001,0001,0000,0001,0001,0000</string>
+    <string name="letter_2">0000,1110,0001,0110,1000,1111</string>
+    <string name="letter_2_tall">0110,0001,0001,0110,1000,1000,0110</string>
+    <string name="letter_3">0000,1110,0001,0111,0001,1110</string>
+    <string name="letter_3_tall">0110,0001,0001,0110,0001,0001,0110</string>
+    <string name="letter_4">0000,1001,1001,0111,0001,0001</string>
+    <string name="letter_4_tall">0000,1001,1001,0110,0001,0001,0000</string>
+    <string name="letter_5">0000,1111,1000,1110,0001,1110</string>
+    <string name="letter_5_tall">0110,1000,1000,0110,0001,0001,0110</string>
+    <string name="letter_6">0000,0110,1000,1110,1001,0110</string>
+    <string name="letter_6_tall">0110,1000,1000,0110,1001,1001,0110</string>
+    <string name="letter_7">0000,1110,0001,0001,0001,0001</string>
+    <string name="letter_7_tall">0110,0001,0001,0000,0001,0001,0000</string>
+    <string name="letter_8">0000,0110,1001,0110,1001,0110</string>
+    <string name="letter_8_tall">0110,1001,1001,0110,1001,1001,0110</string>
+    <string name="letter_9">0000,1110,1001,1111,0001,1110</string>
+    <string name="letter_9_tall">0110,1001,1001,0110,0001,0001,0110</string>
+    <string name="letter_a">0000,0110,1001,1111,1001,1001</string>
+    <string name="letter_a_lowcase">010,001,101,011</string>
+    <string name="letter_b">0000,1110,1001,1110,1001,1110</string>
+    <string name="letter_c">0000,0111,1000,1000,1000,0111</string>
+    <string name="letter_colon">0,0,1,0,1,0</string>
+    <string name="letter_d">0000,1110,1001,1001,1001,1110</string>
+    <string name="letter_dash">000,000,000,111,000,000</string>
+    <string name="letter_deg">000,010,101,010,000,000</string>
+    <string name="letter_dot">0,0,0,0,0,1</string>
+    <string name="letter_e">0000,0111,1000,1110,1000,0111</string>
+    <string name="letter_exclamation">0,1,1,1,0,1</string>
+    <string name="letter_f">0000,1111,1000,1110,1000,1000</string>
+    <string name="letter_f_lowcase">010,101,101,010</string>
+    <string name="letter_g">0000,0111,1000,1011,1001,0111</string>
+    <string name="letter_h">0000,1001,1001,1111,1001,1001</string>
+    <string name="letter_i">000,111,010,010,010,111</string>
+    <string name="letter_j">0000,0011,0001,0001,1001,0110</string>
+    <string name="letter_k">0000,1001,1010,1100,1010,1001</string>
+    <string name="letter_l">0000,1000,1000,1000,1000,0111</string>
+    <string name="letter_m">00000,01010,10101,10101,10101,10101</string>
+    <string name="letter_m_lowcase">01010,10101,10101,10101,</string>
+    <string name="letter_n">00000,10001,11001,10101,10011,10001</string>
+    <string name="letter_n_lowcase">010,101,101,101</string>
+    <string name="letter_o">0000,0110,1001,1001,1001,0110</string>
+    <string name="letter_o_lowcase">010,101,101,010</string>
+    <string name="letter_p">0000,1110,1001,1110,1000,1000</string>
+    <string name="letter_p_lowcase">010,101,110,100</string>
+    <string name="letter_percent">0000,0000,1001,0010,0100,1001</string>
+    <string name="letter_plus">00000,00100,00100,11111,00100,00100</string>
+    <string name="letter_q">0000,0110,1001,1001,1010,0101</string>
+    <string name="letter_r">0000,1110,1001,1110,1010,1001</string>
+    <string name="letter_s">0000,0111,1000,0110,0001,1110</string>
+    <string name="letter_space">0,0,0,0,0,0</string>
+    <string name="letter_t">000,111,010,010,010,010</string>
+    <string name="letter_u">0000,1001,1001,1001,1001,0110</string>
+    <string name="letter_underscore">000,000,000,000,000,111</string>
+    <string name="letter_v">000,101,101,101,101,010</string>
+    <string name="letter_w">00000,10001,10101,10101,10101,01010</string>
+    <string name="letter_x">0000,1001,1001,0110,1001,1001</string>
+    <string name="letter_y">0000,1001,1001,0111,0001,0110</string>
+    <string name="letter_z">0000,1111,0001,0110,1000,1111</string>
+    <string name="m3_exceed_max_badge_text_suffix">%1$s%2$s</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0, 0.2, 1)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0, 1, 1)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0, 0, 0.2, 1)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0, 0, 1, 1)</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0, 0, 1)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0, 1, 1)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0, 0, 0, 1)</string>
+    <string name="m3c_bottom_sheet_collapse_description">Collapse bottom sheet</string>
+    <string name="m3c_bottom_sheet_dismiss_description">Dismiss bottom sheet</string>
+    <string name="m3c_bottom_sheet_drag_handle_description">Drag handle</string>
+    <string name="m3c_bottom_sheet_expand_description">Expand bottom sheet</string>
+    <string name="m3c_bottom_sheet_pane_title">Bottom Sheet</string>
+    <string name="m3c_date_input_headline">Entered date</string>
+    <string name="m3c_date_input_headline_description">Entered date: %1$s</string>
+    <string name="m3c_date_input_invalid_for_pattern">Date does not match expected pattern: %1$s</string>
+    <string name="m3c_date_input_invalid_not_allowed">Date not allowed: %1$s</string>
+    <string name="m3c_date_input_invalid_year_range">Date out of expected year range %1$s - %2$s</string>
+    <string name="m3c_date_input_label">Date</string>
+    <string name="m3c_date_input_no_input_description">None</string>
+    <string name="m3c_date_input_title">Select date</string>
+    <string name="m3c_date_picker_headline">Selected date</string>
+    <string name="m3c_date_picker_headline_description">Current selection: %1$s</string>
+    <string name="m3c_date_picker_navigate_to_year_description">Navigate to year %1$s</string>
+    <string name="m3c_date_picker_no_selection_description">None</string>
+    <string name="m3c_date_picker_scroll_to_earlier_years">Scroll to show earlier years</string>
+    <string name="m3c_date_picker_scroll_to_later_years">Scroll to show later years</string>
+    <string name="m3c_date_picker_switch_to_calendar_mode">Switch to calendar input mode</string>
+    <string name="m3c_date_picker_switch_to_day_selection">Swipe to select a year, or tap to switch back to selecting a day</string>
+    <string name="m3c_date_picker_switch_to_input_mode">Switch to text input mode</string>
+    <string name="m3c_date_picker_switch_to_next_month">Change to next month</string>
+    <string name="m3c_date_picker_switch_to_previous_month">Change to previous month</string>
+    <string name="m3c_date_picker_switch_to_year_selection">Switch to selecting a year</string>
+    <string name="m3c_date_picker_title">Select date</string>
+    <string name="m3c_date_picker_today_description">Today</string>
+    <string name="m3c_date_picker_year_picker_pane_title">Year picker visible</string>
+    <string name="m3c_date_range_input_invalid_range_input">Invalid date range input</string>
+    <string name="m3c_date_range_input_title">Enter dates</string>
+    <string name="m3c_date_range_picker_day_in_range">In range</string>
+    <string name="m3c_date_range_picker_end_headline">End date</string>
+    <string name="m3c_date_range_picker_scroll_to_next_month">Scroll to show the next month</string>
+    <string name="m3c_date_range_picker_scroll_to_previous_month">Scroll to show the previous month</string>
+    <string name="m3c_date_range_picker_start_headline">Start date</string>
+    <string name="m3c_date_range_picker_title">Select dates</string>
+    <string name="m3c_dialog">Dialog</string>
+    <string name="m3c_dropdown_menu_collapsed">Collapsed</string>
+    <string name="m3c_dropdown_menu_expanded">Expanded</string>
+    <string name="m3c_search_bar_search">Search</string>
+    <string name="m3c_snackbar_dismiss">Dismiss</string>
+    <string name="m3c_suggestions_available">Suggestions below</string>
+    <string name="m3c_time_picker_am">AM</string>
+    <string name="m3c_time_picker_hour">Hour</string>
+    <string name="m3c_time_picker_hour_24h_suffix">%1$d hours</string>
+    <string name="m3c_time_picker_hour_selection">Select hour</string>
+    <string name="m3c_time_picker_hour_suffix">"%1$d o'clock"</string>
+    <string name="m3c_time_picker_hour_text_field">for hour</string>
+    <string name="m3c_time_picker_minute">Minute</string>
+    <string name="m3c_time_picker_minute_selection">Select minutes</string>
+    <string name="m3c_time_picker_minute_suffix">%1$d minutes</string>
+    <string name="m3c_time_picker_minute_text_field">for minutes</string>
+    <string name="m3c_time_picker_period_toggle_description">Select AM or PM</string>
+    <string name="m3c_time_picker_pm">PM</string>
+    <string name="m3c_tooltip_long_press_label">Show tooltip</string>
+    <string name="m3c_tooltip_pane_description">Tooltip</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Select AM or PM</string>
+    <string name="material_hour_24h_suffix">%1$s hours</string>
+    <string name="material_hour_selection">Select hour</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_minute_selection">Select minutes</string>
+    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="material_slider_range_end">Range end</string>
+    <string name="material_slider_range_start">Range start</string>
+    <string name="material_slider_value">Value</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
+    <string name="material_timepicker_hour">Hour</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Select time</string>
+    <string name="material_timepicker_text_input_mode_description">Switch to text input mode for the time input.</string>
+    <string name="media3_controls_pause_description">Pause</string>
+    <string name="media3_controls_play_description">Play</string>
+    <string name="media3_controls_seek_back_description">Seek back</string>
+    <string name="media3_controls_seek_forward_description">Seek forward</string>
+    <string name="media3_controls_seek_to_next_description">Seek to next item</string>
+    <string name="media3_controls_seek_to_previous_description">Seek to previous item</string>
+    <string name="media_player_desc">Display and control the song currently playing</string>
+    <string name="media_player_empty_title_default">%1$s is running</string>
+    <string name="media_player_enable_notification_btn">@string/quick_look_widget_calendar_setting_btn_submit</string>
+    <string name="media_player_enable_notification_content">"Nothing Widgets needs notification permission to display detailed information.
+
+Please go to settings, turn on Allow notification access."</string>
+    <string name="media_player_enable_notification_title">Allow access to notification</string>
+    <string name="media_player_no_music_process">Please open any music app.</string>
+    <string name="media_player_no_notification_tip">Permission needed</string>
+    <string name="media_player_widget_name">Media Player</string>
+    <string name="mtrl_badge_numberless_content_description">New notification</string>
+    <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
+    <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
+    <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
+    <string name="mtrl_checkbox_button_icon_path_name">icon path</string>
+    <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
+    <string name="mtrl_checkbox_button_path_group_name">button</string>
+    <string name="mtrl_checkbox_button_path_name">button path</string>
+    <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
+    <string name="mtrl_checkbox_state_description_checked">Checked</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">More than %1$d new notifications</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Change to next month</string>
+    <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
+    <string name="mtrl_picker_announce_current_range_selection">Start date selection: %1$s – End date selection: %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">none</string>
+    <string name="mtrl_picker_cancel">Cancel</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Select Date</string>
+    <string name="mtrl_picker_date_header_unselected">Selected date</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">End date %1$s</string>
+    <string name="mtrl_picker_invalid_format">Invalid format.</string>
+    <string name="mtrl_picker_invalid_format_example">Example: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Use: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Invalid range.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navigate to year %1$d</string>
+    <string name="mtrl_picker_out_of_range">Out of range: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Start date – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – End date</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Select Range</string>
+    <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
+    <string name="mtrl_picker_save">Save</string>
+    <string name="mtrl_picker_start_date_description">Start date %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+    <string name="mtrl_picker_text_input_day_abbr">d</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_today_description">Today %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Switch to calendar input mode</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tap to switch to Calendar view</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to year view</string>
+    <string name="mtrl_switch_thumb_group_name">circle_group</string>
+    <string name="mtrl_switch_thumb_path_checked">M4,16 A12,12 0 0,1 16,4 H16 A12,12 0 0,1 16,28 H16 A12,12 0 0,1 4,16</string>
+    <string name="mtrl_switch_thumb_path_morphing">M0,16 A11,11 0 0,1 11,5 H21 A11,11 0 0,1 21,27 H11 A11,11 0 0,1 0,16</string>
+    <string name="mtrl_switch_thumb_path_name">circle</string>
+    <string name="mtrl_switch_thumb_path_pressed">M2,16 A14,14 0 0,1 16,2 H16 A14,14 0 0,1 16,30 H16 A14,14 0 0,1 2,16</string>
+    <string name="mtrl_switch_thumb_path_unchecked">M8,16 A8,8 0 0,1 16,8 H16 A8,8 0 0,1 16,24 H16 A8,8 0 0,1 8,16</string>
+    <string name="mtrl_switch_track_decoration_path">M1,16 A15,15 0 0,1 16,1 H36 A15,15 0 0,1 36,31 H16 A15,15 0 0,1 1,16</string>
+    <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
+    <string name="mtrl_timepicker_cancel">Cancel</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="navigation_menu">Navigation menu</string>
+    <string name="news_desc">Listen to the daily news</string>
+    <string name="news_reporter_category_business">Business</string>
+    <string name="news_reporter_category_entertainment">Entertainment</string>
+    <string name="news_reporter_category_general">General</string>
+    <string name="news_reporter_category_health">Health</string>
+    <string name="news_reporter_category_science">Science</string>
+    <string name="news_reporter_category_sports">Sports</string>
+    <string name="news_reporter_category_technology">Technology</string>
+    <string name="news_reporter_config_description">Genre selection</string>
+    <string name="news_reporter_config_footnote">"The news content is curated from third-party sources. Nothing is not responsible for the accuracy or opinions expressed in these articles. 
+
+Additional mobile data fees might incur while using this feature."</string>
+    <string name="news_reporter_config_terms_agree">Agree</string>
+    <string name="news_reporter_config_terms_disagree">No thanks</string>
+    <string name="news_reporter_config_terms_title">Terms of Service</string>
+    <string name="news_reporter_config_title">News Reporter</string>
+    <string name="news_reporter_finish_description">Thanks for tuning in today, See you tomorrow</string>
+    <string name="news_reporter_genre_toast">"The updated genre selection will take effect for tomorrow's news."</string>
+    <string name="news_reporter_loading_description">Fetching today’s news</string>
+    <string name="news_reporter_name">News</string>
+    <string name="news_reporter_name_detail">News Reporter (Beta)</string>
+    <string name="news_reporter_no_categories">Configure to use</string>
+    <string name="news_reporter_no_connection">No Connection</string>
+    <string name="news_reporter_terms_content1">"This feature is currently in beta and is only available to produce content in English. 
+By using this feature, you agree to the Nothing %s."</string>
+    <string name="news_reporter_terms_content1_placeholder">Generative Al Terms of Service</string>
+    <string name="news_reporter_terms_content2">The Nothing’s %s explains how your data is handled.</string>
+    <string name="news_reporter_terms_content2_placeholder">Privacy Policy</string>
+    <string name="news_reporter_toast_no_genre">Please select at least 1 news genre</string>
+    <string name="news_widget_name_update">Essential News</string>
+    <string name="news_widget_toast_no_internet">Check your internet connection and try again.</string>
+    <string name="not_selected">Not selected</string>
+    <string name="not_set">Not set</string>
+    <string name="nothing_headlines">Nothing headlines</string>
+    <string name="notification_channel_name">Playback cannot be resumed</string>
+    <string name="notification_content_text">Press on the play button on the media notification if it is still present, otherwise please open the app to start the playback and re-connect the session to the controller</string>
+    <string name="notification_content_title">Playback cannot be resumed</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pedometer_config_notice">Swipe vertically on the widget to access different functions and information when available.</string>
+    <string name="pedometer_daily_count_widget_description">View today’s steps</string>
+    <string name="pedometer_daily_count_widget_title">Count</string>
+    <string name="pedometer_data_source">Data source</string>
+    <string name="pedometer_data_source_dialog_summary">A dialog is a type of modal window that appears in front of app content to provide critical information, or prompt for a decision to be made.</string>
+    <string name="pedometer_data_source_dialog_title">Are you sure to turn off Health Connect</string>
+    <string name="pedometer_data_source_dialog_turn_off">Turn off</string>
+    <string name="pedometer_data_source_switch_title">Health Connect</string>
+    <string name="pedometer_data_source_title">Data source</string>
+    <string name="pedometer_desc">Track daily steps</string>
+    <string name="pedometer_dialog_setting_msg">"Nothing Widgets needs permission to show detailed information.
+
+Please go to settings, tap Permissions - Physical activity - Allow to show your location."</string>
+    <string name="pedometer_dialog_setting_title">Allow Physical Activity Access</string>
+    <string name="pedometer_disconnect">Disconnect</string>
+    <string name="pedometer_friday_letter_abbreviation">F</string>
+    <string name="pedometer_health_connect">Health Connect</string>
+    <string name="pedometer_health_connect_dialog_summary">A dialog is a type of modal window that appears in front of app content to provide critical information.</string>
+    <string name="pedometer_health_connect_dialog_title">Are you sure to disconnect Health Connect</string>
+    <string name="pedometer_monday_letter_abbreviation">M</string>
+    <string name="pedometer_no_data">No data</string>
+    <string name="pedometer_permission_dialog_text">Nothing Widgets collects physical activity data to display information. Please enable Allow to ensure the information is available.</string>
+    <string name="pedometer_progress_widget_description">View your daily goal progress</string>
+    <string name="pedometer_progress_widget_title">Progress</string>
+    <string name="pedometer_saturday_letter_abbreviation">S</string>
+    <string name="pedometer_setttings_dialog_message">Pedometer widget needs to connect to physical activity to track step.</string>
+    <string name="pedometer_setttings_dialog_title">Track activities</string>
+    <string name="pedometer_sevenDayAverageDes">7-day average</string>
+    <string name="pedometer_share_data_source_summary">Pedometer widget uses Health Connect to access and update your step data.</string>
+    <string name="pedometer_share_data_source_title">Share data with Health Connect</string>
+    <string name="pedometer_sunday_letter_abbreviation">S</string>
+    <string name="pedometer_target_steps">Steps</string>
+    <string name="pedometer_target_summary">Daily goal</string>
+    <string name="pedometer_thursday_letter_abbreviation">T</string>
+    <string name="pedometer_title">Pedometer</string>
+    <string name="pedometer_todayStepsDes">Total today</string>
+    <string name="pedometer_tuesday_letter_abbreviation">T</string>
+    <string name="pedometer_wednesday_letter_abbreviation">W</string>
+    <string name="pedometer_weekly_streak_widget_description">View your weekly streak</string>
+    <string name="pedometer_weekly_streak_widget_title">Streak</string>
+    <string name="photo_card_title_cir_1_1">Circle_1_1</string>
+    <string name="photo_card_title_cir_2_1">Circle_2_1</string>
+    <string name="photo_card_title_rec_1_1">Rect_1_1</string>
+    <string name="photo_card_title_rec_2_1">Rect_2_1</string>
+    <string name="photo_desc">Display the photos throughout the day</string>
+    <string name="photo_embedded_setting_dialog_message">"Photo Widget needs permission to let you tap and view full-size images.
+
+Please go to Settings > Permissions > Photos and videos, and select ‘Always allow all’."</string>
+    <string name="photo_embedded_setting_dialog_title">Allow access to all photos</string>
+    <string name="photo_file_manage_msg_image_already_exists">Image already exists</string>
+    <string name="photo_file_manage_msg_image_compress_failed">Cannot save, image compress failed</string>
+    <string name="photo_file_manage_msg_image_delete_failed">Image delete failed</string>
+    <string name="photo_file_manage_msg_image_delete_successfully">Image successfully deleted</string>
+    <string name="photo_file_manage_msg_image_not_exists">Image does not exist</string>
+    <string name="photo_file_manage_msg_image_saved_failed">Image save failed</string>
+    <string name="photo_file_manage_msg_image_saved_successfully">Image saved successfully</string>
+    <string name="photo_file_manage_msg_image_unknown">Image unknown error</string>
+    <string name="photo_go_setting_permission">To view full images, please go to Widget settings and grant permission.</string>
+    <string name="photo_load_failed">Failed to load image</string>
+    <string name="photo_origin_not_found">Original photo not found</string>
+    <string name="photo_select_number_exceed_max">Up to %d photos can be added.</string>
+    <string name="photo_select_one_has_exist">This photo already exists</string>
+    <string name="photo_select_page_no_data">No photos</string>
+    <string name="photo_setting_lost_unavailable_add">Connection is lost. Cannot add photo.</string>
+    <string name="photo_setting_pending_unavailable_add">Connection is pending. Cannot add photo.</string>
+    <string name="photo_shuffle_unavailable_tips">Unavailable during sharing</string>
+    <string name="photo_text_Daily">Daily</string>
+    <string name="photo_text_Hourly">Hourly</string>
+    <string name="photo_text_add_photos">Add photos</string>
+    <string name="photo_text_are_you_sure_to_delete">Are you sure you want to delete?</string>
+    <string name="photo_text_automatically_shuffle">Automatically shuffle</string>
+    <string name="photo_text_cancel">Cancel</string>
+    <string name="photo_text_delete">Delete</string>
+    <string name="photo_text_display_options">Display options</string>
+    <string name="photo_text_frame">Frame</string>
+    <string name="photo_text_grayscale_preview">Grayscale preview</string>
+    <string name="photo_text_on_unlock">On unlock</string>
+    <string name="photo_text_photo">Photo</string>
+    <string name="photo_text_photo_selection">Photo selection</string>
+    <string name="photo_text_tip_msg">Swipe vertically on the widget to change photos.</string>
+    <string name="photo_widget_group_name">Photos</string>
+    <string name="photo_widget_name">Photo</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="quick_look_desc">Display key info like upcoming events and current weather</string>
+    <string name="quick_look_setting_calendar_subtitle">Calendar events and reminders</string>
+    <string name="quick_look_setting_calendar_title">Schedule</string>
+    <string name="quick_look_tag">quicklook</string>
+    <string name="quick_look_widget_calendar_in_time">in %d min</string>
+    <string name="quick_look_widget_calendar_now">now</string>
+    <string name="quick_look_widget_calendar_setting_btn_submit">Go to Settings</string>
+    <string name="quick_look_widget_calendar_setting_msg">"Nothing Widgets needs permission to display your events.
+
+In Settings, tap Permissions and allow access to Calendar."</string>
+    <string name="quick_look_widget_calendar_setting_title">Can’t access Calendar</string>
+    <string name="quick_look_widget_calendar_tomorrow">Tomorrow</string>
+    <string name="quick_look_widget_calendar_yesterday">Yesterday</string>
+    <string name="range_end">Range end</string>
+    <string name="range_start">Range start</string>
+    <string name="scene_music_duration">%d MIN</string>
+    <string name="scene_music_playback_timer">Playback timer</string>
+    <string name="scene_music_settings_title">Soundscapes</string>
+    <string name="scene_music_timer_cancel">Cancel</string>
+    <string name="scene_music_timer_confirm">Confirm</string>
+    <string name="scene_music_timer_unit">min</string>
+    <string name="screen_time_desc">Monitor daily screen time</string>
+    <string name="screen_time_dialog_setting_msg">"Nothing Widgets needs usage access permission to display screen time information. 
+
+Please go to settings, turn on Permit usage access."</string>
+    <string name="screen_time_dialog_setting_title">Allow access to usage</string>
+    <string name="screen_time_face_desc">"View today's screen use status"</string>
+    <string name="screen_time_hm" formatted="false">%d h %d m</string>
+    <string name="screen_time_limit_one_minute">The duration should be at least one minute.</string>
+    <string name="screen_time_m">%d m</string>
+    <string name="screen_time_name">Screen Time</string>
+    <string name="screen_time_over_limit">over limit</string>
+    <string name="screen_time_select_time">Select time</string>
+    <string name="screen_time_set_daily_limit">Set daily limit</string>
+    <string name="screen_time_small_letter_text_hour">h</string>
+    <string name="screen_time_small_letter_text_minute">m</string>
+    <string name="screen_time_text_H">H</string>
+    <string name="screen_time_text_M">M</string>
+    <string name="screen_time_text_daily_limit">Daily limit</string>
+    <string name="screen_time_text_face">Face</string>
+    <string name="screen_time_text_hour">Hour</string>
+    <string name="screen_time_text_minute">Minute</string>
+    <string name="screen_time_text_time">Time</string>
+    <string name="screen_time_text_usage">Usage</string>
+    <string name="screen_time_time_desc">"View today's screen time"</string>
+    <string name="screen_time_tip_msg">Swipe vertically on the widget to access different functions and information when available.</string>
+    <string name="screen_time_usage_access_permission_needed">"Permission
+Needed"</string>
+    <string name="screen_time_usage_desc">"View today's usage progress"</string>
+    <string name="search_menu_title">Search</string>
+    <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
+    <string name="searchview_clear_text_content_description">Clear text</string>
+    <string name="searchview_navigation_content_description">Back</string>
+    <string name="selected">Selected</string>
+    <string name="shape_eighth_stack">Stack</string>
+    <string name="shape_eleventh_chop">Chop</string>
+    <string name="shape_fifth_nub">Nub</string>
+    <string name="shape_first_bloop">Bloop</string>
+    <string name="shape_fourth_fluff">Fluff</string>
+    <string name="shape_ninth_dot">Dot</string>
+    <string name="shape_second_puff">Puff</string>
+    <string name="shape_seventh_screw">Screw</string>
+    <string name="shape_sixth_core">Core</string>
+    <string name="shape_tenth_hourglass">Hourglass</string>
+    <string name="shape_third_squeeze">Squeeze</string>
+    <string name="shape_twelfth_double">Double</string>
+    <string name="share_dialog_close_description">Close button</string>
+    <string name="share_dialog_setting_description">Settings button</string>
+    <string name="share_interaction_camera">Camera</string>
+    <string name="share_interaction_download_already_saved">Saved to %s</string>
+    <string name="share_interaction_interacted_with_other_people_widget">"Reacted to %1$s's widget"</string>
+    <string name="share_interaction_interacted_with_their_owner_widget">Reacted to your own widget</string>
+    <string name="share_interaction_move_tip">Hold to move the sticker around</string>
+    <string name="share_interaction_no_history">There is no history here</string>
+    <string name="share_interaction_send_a_reaction">Sent a reaction</string>
+    <string name="share_interaction_setting_dialog_content">Do you confirm to stop sharing this widget? You have been sharing with %1$s for %2$d days.</string>
+    <string name="share_interaction_setting_hidden_reaction_desc">The sticker on the home screen widget will be hidden.</string>
+    <string name="share_interaction_setting_remove_dialog_content">Do you confirm to stop sharing this widget? You have been sharing with %1$s for %2$d days. Once stopped, it will be removed from your home screen and widget library.</string>
+    <string name="share_interaction_setting_stop_sharing_desc">You have been sharing with %1$s for %2$d days.</string>
+    <string name="share_interaction_setting_text_settings">Settings</string>
+    <string name="share_interaction_shared_a_photo">Shared a photo</string>
+    <string name="share_interaction_text_Photo">@string/photo_text_photo</string>
+    <string name="share_interaction_text_cancel">Cancel</string>
+    <string name="share_interaction_text_confirm">Confirm</string>
+    <string name="share_interaction_text_hide_reaction">Hide reaction</string>
+    <string name="share_interaction_text_just">Just now</string>
+    <string name="share_interaction_text_last_update">Last update:</string>
+    <string name="share_interaction_text_react">React</string>
+    <string name="share_interaction_text_reaction">Reaction</string>
+    <string name="share_interaction_text_send_reaction">Send reaction</string>
+    <string name="share_interaction_text_share">Share</string>
+    <string name="share_interaction_text_share_history">Share history</string>
+    <string name="share_interaction_text_stop_sharing">Stop sharing</string>
+    <string name="share_interaction_text_stops_the_loop">%s stops the connection</string>
+    <string name="share_interaction_text_widget_expired">Widget expired</string>
+    <string name="share_react_lost_unavailable_camera_copy">Connection is lost. Cannot take photo.</string>
+    <string name="share_react_photo_setting_lost_unavailable_add">@string/photo_setting_lost_unavailable_add</string>
+    <string name="share_react_send_react_error">Failed to send reaction, Please try again.</string>
+    <string name="share_react_sharing_interrupted">Connection is lost. Cannot react.</string>
+    <string name="share_text_yesterday">@string/quick_look_widget_calendar_yesterday</string>
+    <string name="share_widget_dialog_title">Shared Widgets</string>
+    <string name="share_widget_loading_retry">Retry</string>
+    <string name="share_widget_no_network_tips">No network connection. Please reconnect the network to continue.</string>
+    <string name="share_widget_request_fail_tips">Unable to build connection. Please check the internet and try again.</string>
+    <string name="share_widget_stop_sharing_success">Sharing stopped successfully.</string>
+    <string name="share_your_current_state">Current state</string>
+    <string name="shared_interaction_load_failed">Failed to load</string>
+    <string name="shared_widgets_sign_out_button">Sign in to reconnect</string>
+    <string name="shared_widgets_sign_out_text">You have signed out the account %s.</string>
+    <string name="shared_widgets_sign_out_title">Widget lost connection</string>
+    <string name="shared_widgets_wrong_account_button">Sign out to switch to %s</string>
+    <string name="shared_widgets_wrong_account_text">This widget is not shared with the current account.</string>
+    <string name="shortcut_camera_title">Camera</string>
+    <string name="shortcut_photo_title">Photo</string>
+    <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
+    <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
+    <string name="sleep_music_card_description">Sleep better. Ease your nervous system.</string>
+    <string name="sleep_music_card_name">Deep sleep</string>
+    <string name="state_empty">Empty</string>
+    <string name="state_off">Off</string>
+    <string name="state_on">On</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="switch_role">Switch</string>
+    <string name="tab">Tab</string>
+    <string name="talk_descrip_delete_btn">Delete button, double tap to activate</string>
+    <string name="template_percent">%1$d percent.</string>
+    <string name="text_charging">charging</string>
+    <string name="text_clock">clock</string>
+    <string name="text_low_battery">low battery</string>
+    <string name="text_power_saving_mode">Power Saving Mode</string>
+    <string name="time_zone_city_search_hint">Search for a city</string>
+    <string name="time_zone_city_search_no_result">No result</string>
+    <string name="tooltip_description">tooltip</string>
+    <string name="tooltip_label">show tooltip</string>
+    <string name="unsless_text_only_use_on_talkback">Talkback text</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="weather_info">Current weather</string>
+    <string name="weather_widget_name">Weather</string>
+    <string name="weather_widget_no_location">No location</string>
+    <string name="widget_one_glance_date_name">Quick Look</string>
+    <string name="world_clock_config_select_tips">Select a city</string>
+    <string name="world_clock_config_specific_city">Specific city</string>
+    <string name="world_clock_config_system_time">System time</string>
+    <string name="world_clock_config_tips">Swipe up on the widget to access different functions and information when it becomes available.</string>
+    <string name="world_clock_config_title">World Clock</string>
+    <string name="world_clock_current_location_default">HOME</string>
+    <string name="world_clock_current_location_mark">HOME</string>
+    <string name="world_clock_desc">Display the time of a city</string>
+    <string name="world_clock_hours_unit">H</string>
+    <string name="world_clock_name">World</string>
+    <string name="xservice_battery">%s battery</string>
+</resources>

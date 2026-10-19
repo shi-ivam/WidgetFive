@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dp" android:width="24.0dp" android:autoMirrored="true" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M9,17m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M9,3m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M9,21m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M9,7m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M7,11m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M7,3m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M7,15m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M7,9m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M7,21m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M7,13m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M5,5m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M5,19m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M3,17m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M3,11m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M3,15m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M3,9m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M3,13m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M3,7m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M11,17m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M11,3m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M11,21m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M11,7m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M13,17m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M13,3m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M13,21m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M13,7m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M14,17a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M14,3a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M14,21a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M14,7a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M16,11a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M16,3a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M16,15a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M16,9a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M16,21a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M16,13a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M18,5a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M18,19a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M20,17a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M20,11a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M20,15a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M20,9a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M20,13a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+    <path android:fillColor="@color/breath_group_icon_color" android:pathData="M20,7a1,1 0,1 0,2 0a1,1 0,1 0,-2 0z" />
+</vector>

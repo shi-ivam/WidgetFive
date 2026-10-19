@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/layer_circle_bg">
+        <shape android:shape="rectangle">
+            <corners android:radius="24.0dp" />
+            <solid android:color="@color/breath_intro_button_bg" />
+        </shape>
+    </item>
+    <item android:gravity="center" android:id="@id/layer_arrow" android:drawable="@drawable/breath_intro_right_arrow" />
+</layer-list>

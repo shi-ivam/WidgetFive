@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/dialog_button_ripple_background"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center" android:id="@android:id/mask" android:height="@dimen/nt_dialog_button_height" android:drawable="@drawable/nt_cust_dialog_button" />
+</ripple>

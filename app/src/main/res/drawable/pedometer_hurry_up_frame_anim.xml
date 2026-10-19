@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="350" android:drawable="@drawable/pedometer_frame_anim_empty" />
+    <item android:duration="350" android:drawable="@drawable/pedometer_hurry_up_frame_01" />
+    <item android:duration="350" android:drawable="@drawable/pedometer_hurry_up_frame_02" />
+    <item android:duration="350" android:drawable="@drawable/pedometer_hurry_up_frame_03" />
+    <item android:duration="150" android:drawable="@drawable/pedometer_frame_anim_empty" />
+    <item android:duration="350" android:drawable="@drawable/pedometer_hurry_up_frame_03" />
+    <item android:duration="150" android:drawable="@drawable/pedometer_frame_anim_empty" />
+    <item android:duration="350" android:drawable="@drawable/pedometer_hurry_up_frame_03" />
+    <item android:duration="150" android:drawable="@drawable/pedometer_frame_anim_empty" />
+</animation-list>

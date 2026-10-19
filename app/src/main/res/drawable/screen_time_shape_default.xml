@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="78.0dp" android:width="172.0dp" android:autoMirrored="true" android:viewportWidth="172.0" android:viewportHeight="78.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/screen_time_bg_color" android:pathData="M39,0L133,0A39,39 0,0 1,172 39L172,39A39,39 0,0 1,133 78L39,78A39,39 0,0 1,0 39L0,39A39,39 0,0 1,39 0z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M34,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M42,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M50,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M58,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M66,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M74,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M82,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M90,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M98,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M106,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_second_progress_color" android:pathData="M114,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M122,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M130,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M138,27a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M34,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M42,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M50,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M58,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M66,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M74,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M82,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M90,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M98,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M106,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_second_progress_color" android:pathData="M114,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M122,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M130,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M138,35a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M34,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M42,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M50,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M58,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M66,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M74,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M82,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M90,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M98,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_item_expression_color" android:pathData="M106,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_second_progress_color" android:pathData="M114,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M122,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M130,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+    <path android:fillColor="@color/screen_time_points_progress_track_color" android:pathData="M138,43a4,4 0,1 0,-0 8a4,4 0,1 0,-0 -8z" />
+</vector>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="150.0dp" android:width="150.0dp" android:autoMirrored="true" android:viewportWidth="150.0" android:viewportHeight="150.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/widget_count_down_setting_shape_color_edm" android:pathData="M150,75C150,116.42 116.42,150 75,150C33.58,150 0,116.42 0,75C0,33.58 33.58,0 75,0C116.42,0 150,33.58 150,75Z" />
+</vector>

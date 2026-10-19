@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="28.0dp" android:width="28.0dp" android:viewportWidth="28.0" android:viewportHeight="28.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0h28v28h-28z" />
+        <path android:fillColor="@color/battery_device_primary_color" android:pathData="M18.541,13.167L18.542,13.167L18.542,8.478C18.542,6.674 17.079,5.211 15.275,5.211C14.318,5.211 13.457,5.623 12.86,6.278C12.33,6.859 12.008,7.631 12.008,8.479L12.008,23.412C12.008,25.216 13.47,26.679 15.274,26.679C17.078,26.679 18.541,25.216 18.541,23.412L18.541,13.167ZM19.942,8.478L19.942,11.855C21.953,9.541 22.476,6.547 20.818,4.179C18.748,1.223 14.599,1.127 11.222,3.492C9.436,4.742 8.224,6.429 7.782,8.179L7.323,8.501C5,10.127 4.436,13.328 6.062,15.65C7.13,17.175 8.877,17.942 10.608,17.828L10.608,8.478C10.608,5.9 12.698,3.811 15.275,3.811C17.852,3.811 19.942,5.9 19.942,8.478Z" android:fillType="evenOdd" />
+    </group>
+</vector>

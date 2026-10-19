@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="172.0dp" android:width="172.0dp" />
+    <stroke android:width="@dimen/photo_border_size_10" android:color="@color/photo_frame_bg" />
+    <corners android:radius="15.0dp" />
+</shape>

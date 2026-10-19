@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/share_widget_interaction_bg_bottom_color" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/share_widget_interaction_bg_top_color" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="pedometer_weekly_streak_des">
+        <item quantity="one">met the goal %d day this week</item>
+        <item quantity="other">met the goal %d days this week</item>
+    </plurals>
+    <plurals name="photo_select_has_repeat_add">
+        <item quantity="one">%s photo already exists</item>
+        <item quantity="other">%s photos already exist</item>
+    </plurals>
+    <plurals name="share_interaction_text_days_ago">
+        <item quantity="one">%d day ago</item>
+        <item quantity="other">%d days ago</item>
+    </plurals>
+    <plurals name="share_interaction_text_hours_ago">
+        <item quantity="one">%d hour ago</item>
+        <item quantity="other">%d hours ago</item>
+    </plurals>
+    <plurals name="share_interaction_text_mins_ago">
+        <item quantity="one">%d min ago</item>
+        <item quantity="other">%d mins ago</item>
+    </plurals>
+</resources>

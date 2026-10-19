@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="172.0dp" android:width="172.0dp" android:autoMirrored="true" android:viewportWidth="172.0" android:viewportHeight="172.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/compass_bg_color" android:pathData="M86,0L86,0A86,86 0,0 1,172 86L172,86A86,86 0,0 1,86 172L86,172A86,86 0,0 1,0 86L0,86A86,86 0,0 1,86 0z" />
+    <path android:fillColor="#d71921" android:pathData="M137.35,41.92H136.22L131.93,35.34V41.92H130.8V33.39H131.93L136.23,39.99V33.39H137.35V41.92Z" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M37.86,134.28C36.89,134 36.19,133.66 35.75,133.26C35.31,132.85 35.09,132.35 35.09,131.76C35.09,131.09 35.36,130.53 35.9,130.1C36.43,129.66 37.13,129.43 37.99,129.43C38.58,129.43 39.1,129.55 39.56,129.77C40.02,130 40.37,130.31 40.62,130.71C40.88,131.11 41,131.55 41,132.02H39.87C39.87,131.5 39.71,131.1 39.38,130.81C39.05,130.51 38.59,130.36 37.99,130.36C37.44,130.36 37,130.48 36.69,130.73C36.38,130.97 36.23,131.31 36.23,131.74C36.23,132.09 36.38,132.39 36.67,132.63C36.97,132.87 37.47,133.09 38.17,133.28C38.89,133.48 39.44,133.7 39.84,133.95C40.24,134.18 40.54,134.46 40.73,134.78C40.92,135.1 41.02,135.48 41.02,135.91C41.02,136.61 40.75,137.16 40.21,137.58C39.67,137.99 38.95,138.2 38.05,138.2C37.47,138.2 36.92,138.09 36.41,137.87C35.9,137.64 35.51,137.33 35.23,136.94C34.96,136.55 34.82,136.11 34.82,135.61H35.95C35.95,136.13 36.14,136.53 36.52,136.84C36.91,137.13 37.42,137.28 38.05,137.28C38.65,137.28 39.1,137.16 39.42,136.92C39.73,136.68 39.89,136.35 39.89,135.93C39.89,135.51 39.75,135.19 39.45,134.96C39.16,134.73 38.63,134.5 37.86,134.28Z" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M35.42,39.23L35.58,40.35L35.83,39.34L37.51,33.39H38.46L40.11,39.34L40.34,40.37L40.52,39.22L41.85,33.39H42.98L40.91,41.92H39.89L38.13,35.7L37.99,35.05L37.86,35.7L36.04,41.92H35.01L32.95,33.39H34.07L35.42,39.23Z" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M136.49,134.14H132.79V137.16H137.08V138.08H131.66V129.55H137.02V130.48H132.79V133.22H136.49V134.14Z" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M86,62m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M86,70m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M94,70m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M78,70m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M70,78m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M102,78m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M86,78m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M86,86m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M86,94m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M86,102m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/compass_font_color" android:pathData="M86,110m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+</vector>

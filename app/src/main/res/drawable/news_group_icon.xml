@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dp" android:width="24.0dp" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,7m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,5m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,3m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,9m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,11m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,13m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,15m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,17m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,19m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M10,21m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,7m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,5m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,3m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,9m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,11m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,13m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,15m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,17m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,19m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M14,21m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M6,9m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M6,7m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M6,11m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M6,13m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M2,11m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M2,13m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M22,11m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M22,13m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M6,15m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M6,17m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M18,9m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M18,7m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M18,11m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M18,13m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M18,15m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path android:fillColor="@color/news_group_icon_color" android:pathData="M18,17m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+</vector>

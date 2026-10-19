@@ -1,0 +1,111 @@
+{
+  "content": [
+    {
+      "version": 1000081,
+      "media_player_config": {
+        "app_black_list": [
+          "com.nothing.soundrecorder",
+          "com.google.android.youtube",
+          "com.zhiliaoapp.musically",
+          "com.smile.gifmaker",
+          "com.ss.android.ugc.aweme",
+          "com.qiyi.video",
+          "com.youku.phone",
+          "com.tencent.qqlivei18n",
+          "tv.danmaku.bili",
+          "com.amazon.avod.thirdpartyclient",
+          "com.netflix.mediaclient",
+          "com.vimeo.android.videoapp",
+          "com.hulu.plus",
+          "com.disney.disneyplus",
+          "com.jio.media.ondemand",
+          "in.startv.hotstar",
+          "com.sharechat.moj",
+          "com.mxtech.videoplayer.ad",
+          "com.pub.video",
+          "com.dream11sportsguru",
+          "in.josh.app",
+          "com.hunantv.imgo.activity",
+          "com.ss.android.article.video",
+          "com.cmvideo.migumovie",
+          "com.cctv.vod",
+          "tv.twitch.android.app",
+          "org.mozilla.firefox",
+          "com.android.chrome",
+          "com.microsoft.emmx",
+          "com.opera.browser",
+          "com.UCMobile.intl",
+          "com.jio.web",
+          "com.sec.android.app.sbrowser",
+          "com.epic.browser",
+          "com.vivaldi.browser",
+          "com.opera.mini.native",
+          "com.brave.browser",
+          "app.revanced.android.youtube",
+          "com.nothing.hearthstone",
+          "com.Slack"
+        ]
+      },
+      "screen_time_config": {
+        "app_filter_list": [
+          "com.nothing.systemui",
+          "com.nothing.systemuitool",
+          "com.nothing.hearthstone",
+          "com.android.systemui",
+          "com.nothing.wallpaper",
+          "com.nothing.proxy",
+          "android",
+          "com.android.nfc",
+          "com.android.setupwizard.overlay",
+          "com.google.android.gms",
+          "com.google.android.packageinstaller",
+          "com.google.android.setupwizard",
+          "com.google.android.apps.wellbeing",
+          "com.android.intentresolver",
+          "com.google.android.as",
+          "com.google.android.tts",
+          "com.android.server.telecom",
+          "com.google.android.cellbroadcastreceiver",
+          "com.google.android.documentsui",
+          "com.nothing.ntscreenshot",
+          "com.google.android.inputmethod.latin",
+          "com.google.android.providers.media.module",
+          "com.nothing.launcher",
+          "com.google.android.apps.safetyhub",
+          "com.nothing.OfflineOTAUpgradeApp"
+        ]
+      },
+      "third_party_intent_config": {
+        "package_name": "com.openai.chatgpt",
+        "class_name": "com.openai.chatgpt.MainActivity",
+        "base_uri": "https://chat.openai.com/",
+        "package_name_array": ["com.openai.chatgpt", "com.openai.chatgpt", "com.openai.chatgpt"],
+        "class_name_array": ["com.openai.chatgpt.MainActivity", "com.openai.chatgpt.MainActivity", "com.openai.chatgpt.MainActivity"],
+        "base_uri_array": ["https://chat.openai.com/", "https://chat.openai.com/", "https://chat.openai.com/"],
+        "query_array": [
+          {
+            "key": "?q=",
+            "value": null
+          },
+          {
+            "key": "?mode=",
+            "value": ["text", "voice", "camera"]
+          },
+          {
+            "key": "?model=",
+            "value": null
+          }
+        ],
+        "version_code": 171
+      },
+      "date_config": {
+        "calendar_event_white_list": [
+
+        ]
+      },
+      "news_config": {
+        "fetch_dialog_config": false
+      }
+    }
+  ]
+}

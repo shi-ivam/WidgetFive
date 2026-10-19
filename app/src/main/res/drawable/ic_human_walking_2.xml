@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="36.0dp" android:width="24.0dp" android:viewportWidth="24.0" android:viewportHeight="36.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0h24v36h-24z" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M14,32m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M18,32m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M14,28m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M14.004,24m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M10,20m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M10,16m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M14.004,12m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M18,16m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M10,12m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M10,8m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M14.004,8m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M10,4m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M14.004,4m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M6,12m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M6,16m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M10,24m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M6,28m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+        <path android:fillColor="@color/pedometer_walking_circle_color" android:pathData="M6,32m2,0a2,2 0,1 0,-4 0a2,2 0,1 0,4 0" />
+    </group>
+</vector>

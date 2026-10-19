@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="33.0dp" android:width="30.0dp" android:viewportWidth="30.0" android:viewportHeight="33.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0.333,0.889h29.453v32h-29.453z" />
+        <path android:fillColor="#00000000" android:pathData="M2.555,15.556V14.667C2.555,7.794 8.127,2.222 15,2.222V2.222C21.873,2.222 27.444,7.794 27.444,14.667V15.556" android:strokeColor="@color/battery_device_primary_color" android:strokeWidth="2.66667" android:strokeLineCap="round" />
+        <path android:fillColor="@color/battery_device_primary_color" android:pathData="M1.081,20.522L1.479,19.626C1.784,18.938 2.3,18.365 2.951,17.989L4.643,17.012C5.28,16.644 6.096,16.863 6.464,17.5L12.686,28.278C13.054,28.915 12.836,29.731 12.198,30.099L10.507,31.076C9.855,31.452 9.101,31.612 8.353,31.532L7.378,31.428C5.965,31.278 4.709,30.461 3.999,29.231L1.295,24.547C0.585,23.317 0.505,21.821 1.081,20.522Z" />
+        <path android:fillColor="@color/battery_device_primary_color" android:pathData="M28.919,20.078L28.521,19.182C28.216,18.494 27.7,17.921 27.049,17.545L25.357,16.568C24.719,16.2 23.904,16.418 23.536,17.056L17.314,27.833C16.945,28.471 17.164,29.286 17.802,29.655L19.493,30.631C20.145,31.007 20.899,31.167 21.647,31.088L22.622,30.984C24.035,30.833 25.29,30.017 26.001,28.787L28.705,24.103C29.415,22.872 29.495,21.377 28.919,20.078Z" />
+        <path android:fillColor="@color/battery_device_primary_color" android:pathData="M2.029,15.08l1.332,0.07l-0.279,5.326l-1.332,-0.07z" />
+        <path android:fillColor="@color/battery_device_primary_color" android:pathData="M26.861,15.15l1.332,-0.07l0.279,5.326l-1.332,0.07z" />
+    </group>
+</vector>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="78.0dp" android:width="172.0dp" android:autoMirrored="true" android:viewportWidth="172.0" android:viewportHeight="78.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/ql_card_style_bg_color" android:pathData="M39,0L133,0A39,39 0,0 1,172 39L172,39A39,39 0,0 1,133 78L39,78A39,39 0,0 1,0 39L0,39A39,39 0,0 1,39 0z" />
+    <path android:fillColor="@color/pedometer_walking_dot_color" android:pathData="M26,39m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="#f2f2f2" android:pathData="M46,39m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    <path android:fillColor="@color/pedometer_calender_goal_reached_color" android:pathData="M46,35L65,35A4,4 0,0 1,69 39L69,39A4,4 0,0 1,65 43L46,43A4,4 0,0 1,42 39L42,39A4,4 0,0 1,46 35z" />
+    <path android:fillColor="@color/pedometer_calender_goal_reached_color" android:pathData="M66,39m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/pedometer_calender_currentDay_Color" android:pathData="M86,39m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="@color/pedometer_walking_dot_color" android:pathData="M106,39m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/pedometer_walking_dot_color" android:pathData="M126,39m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path android:fillColor="@color/pedometer_walking_dot_color" android:pathData="M146,39m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+</vector>

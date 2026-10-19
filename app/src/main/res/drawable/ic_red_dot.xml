@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/nt_list_item_trailing_alert" />
+    <size android:height="@dimen/size_xs" android:width="@dimen/size_xs" />
+</shape>

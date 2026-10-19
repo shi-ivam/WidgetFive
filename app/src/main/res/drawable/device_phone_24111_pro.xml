@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="32.0dp" android:width="32.0dp" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/battery_device_primary_color" android:pathData="M10,0L22,0A3,3 0,0 1,25 3L25,29A3,3 0,0 1,22 32L10,32A3,3 0,0 1,7 29L7,3A3,3 0,0 1,10 0z" />
+    <path android:fillColor="@color/battery_device_secondary_color" android:pathData="M13.366,1.438C13.642,1.916 13.478,2.528 13,2.804C12.318,3.198 11.72,3.722 11.24,4.348C10.76,4.973 10.408,5.686 10.205,6.447C10.061,6.981 9.513,7.297 8.98,7.154C8.446,7.011 8.13,6.463 8.273,5.93C8.545,4.915 9.014,3.963 9.653,3.13C10.293,2.297 11.09,1.597 12,1.072C12.478,0.796 13.09,0.96 13.366,1.438ZM9.293,10.793C9.683,10.402 10.317,10.402 10.707,10.793L13.207,13.293C13.598,13.683 13.598,14.317 13.207,14.707C12.817,15.098 12.183,15.098 11.793,14.707L9.293,12.207C8.902,11.817 8.902,11.183 9.293,10.793ZM21.196,11C20.92,11.478 21.084,12.09 21.562,12.366C22.041,12.642 22.652,12.478 22.928,12C23.63,10.784 24,9.404 24,8C24,6.596 23.63,5.216 22.928,4C22.652,3.522 22.041,3.358 21.562,3.634C21.084,3.91 20.92,4.522 21.196,5C21.723,5.912 22,6.947 22,8C22,9.053 21.723,10.088 21.196,11Z" android:fillType="evenOdd" />
+    <path android:fillColor="@color/battery_device_secondary_color" android:pathData="M16,8m-4.5,0a4.5,4.5 0,1 1,9 0a4.5,4.5 0,1 1,-9 0" />
+</vector>

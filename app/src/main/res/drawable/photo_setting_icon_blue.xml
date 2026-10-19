@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dp" android:width="24.0dp" android:autoMirrored="true" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <clip-path android:pathData="M0,0h24v24h-24z" />
+        <path android:fillColor="@color/photos_settings_target_mark_color" android:pathData="M9,13H19L15.55,8.5L13.25,11.5L11.7,9.5L9,13ZM3,21C2.45,21 1.979,20.804 1.587,20.413C1.196,20.021 1,19.55 1,19V6H3V19H20V21H3ZM7,17C6.45,17 5.979,16.804 5.588,16.413C5.196,16.021 5,15.55 5,15V4C5,3.45 5.196,2.979 5.588,2.588C5.979,2.196 6.45,2 7,2H12L14,4H21C21.55,4 22.021,4.196 22.413,4.588C22.804,4.979 23,5.45 23,6V15C23,15.55 22.804,16.021 22.413,16.413C22.021,16.804 21.55,17 21,17H7ZM7,15H21V6H13.175L11.175,4H7V15Z" />
+    </group>
+</vector>

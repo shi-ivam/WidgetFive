@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/comp_button_surface_non_filled_overlay"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="@android:color/transparent" />
+            <corners android:radius="1000.0dp" />
+            <stroke android:width="@dimen/border_width_100" android:color="@color/color_border_default" />
+        </shape>
+    </item>
+    <item android:id="@android:id/mask">
+        <shape>
+            <solid android:color="@color/color_border_default" />
+            <corners android:radius="1000.0dp" />
+        </shape>
+    </item>
+</ripple>

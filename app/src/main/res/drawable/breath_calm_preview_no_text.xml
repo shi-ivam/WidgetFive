@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="172.0dp" android:width="172.0dp" android:autoMirrored="true" android:viewportWidth="172.0" android:viewportHeight="172.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/breath_card_bg_color" android:pathData="M20,0L152,0A20,20 0,0 1,172 20L172,152A20,20 0,0 1,152 172L20,172A20,20 0,0 1,0 152L0,20A20,20 0,0 1,20 0z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M86,30L86,30A0.65,0.65 0,0 1,86.65 30.65L86.65,53.35A0.65,0.65 0,0 1,86 54L86,54A0.65,0.65 0,0 1,85.35 53.35L85.35,30.65A0.65,0.65 0,0 1,86 30z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M86,118L86,118A0.65,0.65 0,0 1,86.65 118.65L86.65,141.35A0.65,0.65 0,0 1,86 142L86,142A0.65,0.65 0,0 1,85.35 141.35L85.35,118.65A0.65,0.65 0,0 1,86 118z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M125.6,46.4L125.6,46.4A0.65,0.65 90,0 1,125.6 47.32L109.55,63.37A0.65,0.65 90,0 1,108.63 63.37L108.63,63.37A0.65,0.65 90,0 1,108.63 62.45L124.68,46.4A0.65,0.65 90,0 1,125.6 46.4z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M63.37,108.63L63.37,108.63A0.65,0.65 90,0 1,63.37 109.55L47.32,125.6A0.65,0.65 0,0 1,46.4 125.6L46.4,125.6A0.65,0.65 0,0 1,46.4 124.68L62.45,108.63A0.65,0.65 90,0 1,63.37 108.63z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M30,86L30,86A0.65,0.65 0,0 1,30.65 85.35L53.35,85.35A0.65,0.65 0,0 1,54 86L54,86A0.65,0.65 0,0 1,53.35 86.65L30.65,86.65A0.65,0.65 0,0 1,30 86z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M118,86L118,86A0.65,0.65 0,0 1,118.65 85.35L141.35,85.35A0.65,0.65 0,0 1,142 86L142,86A0.65,0.65 0,0 1,141.35 86.65L118.65,86.65A0.65,0.65 0,0 1,118 86z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M46.4,46.4L46.4,46.4A0.65,0.65 90,0 1,47.32 46.4L63.37,62.45A0.65,0.65 0,0 1,63.37 63.37L63.37,63.37A0.65,0.65 0,0 1,62.45 63.37L46.4,47.32A0.65,0.65 90,0 1,46.4 46.4z" />
+    <path android:fillColor="@color/breath_card_icon_color" android:pathData="M108.63,108.63L108.63,108.63A0.65,0.65 90,0 1,109.55 108.63L125.6,124.68A0.65,0.65 0,0 1,125.6 125.6L125.6,125.6A0.65,0.65 0,0 1,124.68 125.6L108.63,109.55A0.65,0.65 90,0 1,108.63 108.63z" />
+</vector>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="16.0dp" android:width="16.0dp" android:viewportWidth="16.0" android:viewportHeight="16.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/compass_font_color" android:pathData="M11.999,8V5.2L10.933,6.267L9.999,5.333L12.666,2.667L15.333,5.333L14.399,6.283L13.333,5.217V8H11.999ZM0.666,14.667L4.666,9.333L7.666,13.333H12.666L9.333,8.9L7.666,11.1L6.833,10L9.333,6.667L15.333,14.667H0.666Z" />
+</vector>

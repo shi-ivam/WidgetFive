@@ -1,0 +1,17 @@
+{
+    "general":{
+        "count":99,
+        "start_index":1,
+        "version":1
+    },
+    "easter_egg":{
+        "count":40,
+        "start_index":1,
+        "version":1
+    },
+    "last":{
+        "count":52,
+        "start_index":1,
+        "version":1
+    }
+}

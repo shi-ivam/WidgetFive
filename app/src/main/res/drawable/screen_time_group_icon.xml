@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dp" android:width="24.0dp" android:autoMirrored="true" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M12,6m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M14,6m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M16,6m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M16,8m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M10,6m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M8,6m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M8,8m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M10,10m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M12,12m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M12,14m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M12,16m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M10,16m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M10,14m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M14,16m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M14,14m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M14,10m-0,-1a1,1 0,1 1,-0 2a1,1 0,1 1,-0 -2" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M16,15a1,1 0,1 0,-0 2a1,1 0,1 0,-0 -2z" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M8,17a1,1 0,1 0,-0 2a1,1 0,1 0,-0 -2z" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M8,15a1,1 0,1 0,-0 2a1,1 0,1 0,-0 -2z" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M16,17a1,1 90,1 0,-0 2a1,1 90,1 0,-0 -2z" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M14,17a1,1 90,1 0,-0 2a1,1 90,1 0,-0 -2z" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M12,17a1,1 90,1 0,-0 2a1,1 90,1 0,-0 -2z" />
+    <path android:fillColor="@color/screen_time_group_icon_color" android:pathData="M10,17a1,1 90,1 0,-0 2a1,1 90,1 0,-0 -2z" />
+</vector>

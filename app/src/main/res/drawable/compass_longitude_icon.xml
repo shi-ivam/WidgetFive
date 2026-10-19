@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="16.0dp" android:width="16.0dp" android:viewportWidth="16.0" android:viewportHeight="16.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/compass_font_color" android:pathData="M7.334,2.708C6.743,2.782 6.182,2.952 5.667,3.203V12.797C6.182,13.048 6.743,13.218 7.334,13.292V2.708ZM2.667,8C2.667,6.475 3.308,5.099 4.334,4.127V11.873C3.308,10.901 2.667,9.525 2.667,8ZM10.334,12.797C9.819,13.048 9.258,13.218 8.667,13.292V2.708C9.258,2.782 9.819,2.952 10.334,3.203V12.797ZM11.667,11.873C12.694,10.901 13.334,9.525 13.334,8C13.334,6.475 12.694,5.099 11.667,4.127V11.873ZM14.667,8C14.667,11.682 11.682,14.667 8.001,14.667C4.319,14.667 1.334,11.682 1.334,8C1.334,4.318 4.319,1.333 8.001,1.333C11.682,1.333 14.667,4.318 14.667,8Z" android:fillType="evenOdd" />
+</vector>
