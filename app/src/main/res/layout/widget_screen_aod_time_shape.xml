@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/fl_shape_container" android:background="@drawable/screen_time_aod_bg_2_1" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.nothing.cardwidget.PointsProgressView android:layout_gravity="center" android:id="@id/ppv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="30.0dp" android:layout_marginEnd="30.0dp" app:columnCount="14" app:progressColor="@color/screen_time_aod_points_progress_progress_color" app:rawCount="3" app:trackColor="@color/screen_time_aod_points_progress_track_color" />
+</FrameLayout>

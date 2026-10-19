@@ -52,4 +52,10 @@
     </attr>
     <attr name="dotRadius" format="dimension" />
     <attr name="dotSelectColor" format="color|reference" />
+    <attr name="columnCount" format="integer" />
+    <attr name="rawCount" format="integer" />
+    <attr name="maxProgress" format="integer" />
+    <attr name="progress" format="integer" />
+    <attr name="progressColor" format="color|reference" />
+    <attr name="trackColor" format="color|reference" />
 </resources>
