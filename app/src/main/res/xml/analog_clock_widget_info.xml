@@ -4,5 +4,6 @@
     android:minHeight="40dp"
     android:updatePeriodMillis="0"
     android:initialLayout="@layout/card_analog_clock_initial_layout"
+    android:configure="com.nothing.hearthstone.clock.ui.AnalogClockConfigureActivity"
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen" />

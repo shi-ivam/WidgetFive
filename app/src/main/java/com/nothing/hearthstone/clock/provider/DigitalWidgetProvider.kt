@@ -18,6 +18,22 @@ class DigitalWidgetProvider : AppWidgetProvider() {
         update(context, appWidgetManager, appWidgetId)
     }
 
+    override fun onReceive(context: Context, intent: Intent) {
+        super.onReceive(context, intent)
+        if (intent.action == Intent.ACTION_TIME_CHANGED || intent.action == Intent.ACTION_TIMEZONE_CHANGED) {
+            val manager = AppWidgetManager.getInstance(context)
+            val ids = manager.getAppWidgetIds(android.content.ComponentName(context, DigitalWidgetProvider::class.java))
+            onUpdate(context, manager, ids)
+        }
+    }
+
+    override fun onDeleted(context: Context, appWidgetIds: IntArray) {
+        super.onDeleted(context, appWidgetIds)
+        val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE).edit()
+        for (id in appWidgetIds) prefs.remove(simpleKey(id))
+        prefs.apply()
+    }
+
     private fun update(context: Context, appWidgetManager: AppWidgetManager, appWidgetId: Int) {
         val prefs = context.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
         val simple = prefs.getBoolean(simpleKey(appWidgetId), false)
