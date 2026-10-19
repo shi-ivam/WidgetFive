@@ -3,4 +3,41 @@
     <attr name="aod_dial" format="reference" />
     <attr name="aod_hand_hour" format="reference" />
     <attr name="aod_hand_minute" format="reference" />
+    <attr name="pluginCommonTextColor" format="color|reference" />
+    <attr name="pluginContainerUiType">
+        <enum name="normal" value="0" />
+        <enum name="aod" value="1" />
+    </attr>
+    <attr name="pluginCurrentDayColor" format="color|reference" />
+    <attr name="pluginCurrentDayShape">
+        <enum name="dot" value="1" />
+        <enum name="ring" value="2" />
+        <enum name="circle" value="3" />
+        <enum name="rectangle" value="4" />
+    </attr>
+    <attr name="pluginGoalNotReachedColor" format="color|reference" />
+    <attr name="pluginGoalNotReachedShape">
+        <enum name="dot" value="1" />
+        <enum name="ring" value="2" />
+        <enum name="circle" value="3" />
+        <enum name="rectangle" value="4" />
+    </attr>
+    <attr name="pluginGoalReachedColor" format="color|reference" />
+    <attr name="pluginGoalReachedShape">
+        <enum name="dot" value="1" />
+        <enum name="ring" value="2" />
+        <enum name="circle" value="3" />
+        <enum name="rectangle" value="4" />
+    </attr>
+    <attr name="pluginHuman" format="reference" />
+    <attr name="pluginIsSupportAod" format="integer" />
+    <attr name="pluginLeftCircleColor" format="color|reference" />
+    <attr name="pluginNoDataDes" format="string" />
+    <attr name="pluginNoPermissionDes" format="string" />
+    <attr name="pluginReachGoalAnimRes" format="reference" />
+    <attr name="pluginRightDotColor" format="color|reference" />
+    <attr name="pluginSevenDayAverageDes" format="string" />
+    <attr name="pluginTotalTodayDes" format="string" />
+    <attr name="pluginWalkingAnimRes" format="reference" />
+    <attr name="pluginWeeklyDesColor" format="color|reference" />
 </resources>
