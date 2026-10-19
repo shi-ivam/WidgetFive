@@ -4,5 +4,6 @@
     android:minHeight="40dp"
     android:updatePeriodMillis="0"
     android:initialLayout="@layout/chatgpt_static_init_preview"
+    android:configure="com.nothing.hearthstone.chatgpt.ui.GPTStaticConfigureActivity"
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen" />
