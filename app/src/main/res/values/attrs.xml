@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <attr name="aod_dial" format="reference" />
+    <attr name="isAod" format="boolean" />
     <attr name="aod_hand_hour" format="reference" />
     <attr name="aod_hand_minute" format="reference" />
     <attr name="pluginCommonTextColor" format="color|reference" />

@@ -117,6 +117,28 @@
                 android:resource="@xml/pedometer_widget_info" />
         </receiver>
 
+        <receiver
+            android:name="com.nothing.hearthstone.pedometer.WidgetProgressProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/pedometer_progress_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name="com.nothing.hearthstone.pedometer.WidgetDailyCountProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/pedometer_daily_count_widget_info" />
+        </receiver>
+
         <activity
             android:name="com.nothing.hearthstone.clock.ui.AnalogClockConfigureActivity"
             android:exported="true" />
