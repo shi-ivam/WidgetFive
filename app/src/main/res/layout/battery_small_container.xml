@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/battery_container" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.nothing.cardwidget.battery.view.BatteryCellView android:id="@id/battery_small_view" android:layout_width="match_parent" android:layout_height="match_parent" />
+    <RelativeLayout android:id="@id/layout_battery_permission" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:id="@id/iv_battery_permission" android:layout_width="18.0dp" android:layout_height="32.0dp" android:layout_centerInParent="true" />
+        <TextView android:textSize="20.0sp" android:gravity="center" android:id="@id/tv_battery_permission" android:layout_width="match_parent" android:layout_height="match_parent" android:fontFamily="ndot" android:textFontWeight="400" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/layout_battery_aod_permission" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ImageView android:id="@id/iv_battery_aod_permission" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</RelativeLayout>

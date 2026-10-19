@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.nothing.cardwidget.battery.view.BatterySmallContainerView android:id="@id/battery_view" android:layout_width="match_parent" android:layout_height="match_parent" app:aodPermissionDrawable="@drawable/battery_aod_no_permission" app:chargingDrawable="@drawable/battery_aod_charging" app:isAod="true" app:lowBatteryLevelColor="@color/battery_aod_color" app:normalLevelColor="@color/battery_aod_color" app:permissionStr="?" app:permissionTvColor="@color/battery_aod_color" app:powerSaveDrawable="@drawable/battery_aod_power_saving"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />
