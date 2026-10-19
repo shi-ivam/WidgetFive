@@ -41,4 +41,15 @@
     <attr name="pluginTotalTodayDes" format="string" />
     <attr name="pluginWalkingAnimRes" format="reference" />
     <attr name="pluginWeeklyDesColor" format="color|reference" />
+    <attr name="dotAppearBegin" format="boolean" />
+    <attr name="dotDefaultColor" format="color|reference" />
+    <attr name="dotFadeDelay" format="integer" />
+    <attr name="dotFadeDots" format="boolean" />
+    <attr name="dotMargin" format="dimension" />
+    <attr name="dotOrientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="dotRadius" format="dimension" />
+    <attr name="dotSelectColor" format="color|reference" />
 </resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center" android:height="@dimen/community_preview_shape_width" android:width="@dimen/community_preview_shape_width">
+        <shape android:shape="rectangle">
+            <corners android:radius="40.0px" />
+            <solid android:color="@color/ql_card_style_bg_color" />
+        </shape>
+    </item>
+    <item android:gravity="left|bottom" android:height="@dimen/community_photo_preview_text_height" android:width="@dimen/community_photo_preview_text_width" android:drawable="@drawable/community_latest_news_from_nothing_icon" android:left="@dimen/community_title_padding_16" android:bottom="@dimen/community_title_padding_16" />
+    <item android:gravity="left" android:height="@dimen/community_preview_photo_width" android:width="@dimen/community_preview_photo_width" android:drawable="@drawable/community_default_ic_2_2" android:left="@dimen/community_title_padding_16" android:top="@dimen/community_title_padding_16" />
+</layer-list>

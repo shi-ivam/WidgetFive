@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/default_root_rl" android:background="@drawable/quick_look_card_mode_bg" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/community_default_ic_2_2" />
+    <TextView android:textSize="14.0sp" android:textColor="@color/community_text_color" android:ellipsize="end" android:id="@id/title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/community_headlines_des" android:maxLines="2" android:layout_alignParentBottom="true" />
+</RelativeLayout>

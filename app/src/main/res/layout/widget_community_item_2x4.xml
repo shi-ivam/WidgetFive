@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/default_root_rl" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" />
+    <TextView android:ellipsize="end" android:id="@id/author" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dp" android:maxLines="1" android:layout_above="@id/title" android:textDirection="locale" android:layout_toEndOf="@id/iv" />
+    <TextView android:ellipsize="end" android:gravity="start" android:id="@id/title" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="3" android:layout_alignParentBottom="true" android:lineSpacingExtra="12.0px" android:fontFamily="NType82-Regular" android:textDirection="locale" android:layout_toEndOf="@id/iv" />
+    <ImageView android:layout_gravity="end" android:id="@id/iv_podcast_controller_touch_area" android:visibility="visible" android:layout_width="48.0dp" android:layout_height="48.0dp" android:layout_marginTop="4.0dp" android:scaleType="fitCenter" android:layout_marginStart="4.0dp" android:layout_toEndOf="@id/iv" />
+    <ImageView android:layout_gravity="end" android:id="@id/iv_disallow_touch_area" android:layout_width="match_parent" android:layout_height="52.0dp" android:scaleType="fitCenter" android:layout_toEndOf="@id/iv_podcast_controller_touch_area" />
+    <ImageView android:layout_gravity="end" android:id="@id/iv_podcast_controller" android:visibility="visible" android:layout_width="24.0dp" android:layout_height="24.0dp" android:layout_marginTop="16.0dp" android:scaleType="fitCenter" android:layout_marginStart="16.0dp" android:layout_toEndOf="@id/iv" />
+</RelativeLayout>
