@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/container_chatgpt" android:background="@drawable/chatgpt_1x2_bg" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/iv_chatgpt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="33.0dp" android:layout_alignParentStart="true" />
+    <TextView android:textColor="@color/chatgpt_text_color" android:ellipsize="end" android:gravity="center" android:id="@id/tv_chatgpt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_centerVertical="true" android:layout_marginStart="12.0dp" android:layout_toEndOf="@id/iv_chatgpt" />
+</RelativeLayout>
