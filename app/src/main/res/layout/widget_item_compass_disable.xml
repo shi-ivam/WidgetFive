@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:id="@id/ll_compass_disable" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="105.0px" android:layout_height="147.0px" android:src="@drawable/compass_arrow_disable" android:contentDescription="@string/compass_desc" />
+</LinearLayout>
