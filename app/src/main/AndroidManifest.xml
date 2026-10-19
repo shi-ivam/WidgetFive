@@ -353,11 +353,15 @@
                 android:resource="@xml/media_player_widget_info" />
         </receiver>
 
-         <receiver
-            android:name="com.nothing.hearthstone.chatgpt.provider.GPTScrollableProvider"
-            android:exported="true">
+          <receiver
+             android:name="com.nothing.hearthstone.chatgpt.provider.GPTScrollableProvider"
+             android:exported="true">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.DATE_CHANGED" />
+                <action android:name="android.intent.action.TIME_CHANGED" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
             </intent-filter>
             <meta-data
                 android:name="android.appwidget.provider"
