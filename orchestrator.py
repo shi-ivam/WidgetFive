@@ -513,7 +513,7 @@ def build_prompt(
         "   - You are allowed to run passwordless sudo commands if extra tools or packages are needed.\n"
         "   - Skip writing or verifying unit tests. Focus strictly on complete layout, design fidelity, and functional behavior.\n"
         "   - Maintain high fidelity: verify rendered RemoteViews and layouts against the original APK XMLs.\n"
-        "   - Work directly in the current repository; do not create unnecessary git branches. Push to main when done.\n"
+        "   - Git & Push on Every Iteration: Commit all progress to the `main` branch with descriptive commit messages (e.g. `feat(widgets): implement widgets {start}-{end}`) and push to remote `origin main` on every iteration (`git push origin main`). Do not create additional branches. Do not edit or run orchestrator.py.\n"
     )
     if loop > 1:
         prompt += (
@@ -744,8 +744,22 @@ def auto_commit_progress(project_dir: Path, pass_number: int, start: int, end: i
                 check=False,
             )
             print(f"[GIT SAFETY] Work saved: {commit_msg}", file=sys.stderr)
+
+        # Push to remote on every iteration
+        push_res = subprocess.run(
+            ["git", "push", "origin", "main"],
+            cwd=project_dir,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        if push_res.returncode == 0:
+            print("[GIT SAFETY] Pushed progress to origin/main.", file=sys.stderr)
+        else:
+            err_msg = push_res.stderr.strip() or push_res.stdout.strip()
+            print(f"[GIT SAFETY NOTICE] Push to origin/main: {err_msg}", file=sys.stderr)
     except Exception as exc:
-        print(f"[GIT SAFETY WARNING] Could not auto-commit changes: {exc}", file=sys.stderr)
+        print(f"[GIT SAFETY WARNING] Could not auto-commit/push changes: {exc}", file=sys.stderr)
 
 
 def run_batch_with_retry(
