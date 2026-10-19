@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/pt_container" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/fl" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/view_pager" android:layout_width="360.0dp" android:layout_height="172.0dp" android:src="@drawable/photo_image_rec_2_1" android:scaleType="centerCrop" />
+        <View android:id="@id/view_shadow" android:background="@drawable/photo_retangle_bg" android:layout_width="360.0dp" android:layout_height="172.0dp" />
+    </FrameLayout>
+</FrameLayout>

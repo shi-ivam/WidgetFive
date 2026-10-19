@@ -51,6 +51,28 @@
                 android:resource="@xml/ql_transparent_widget_info" />
         </receiver>
 
+        <receiver
+            android:name="com.nothing.hearthstone.quicklook.QLCardModeWidgetProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/ql_card_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name="com.nothing.hearthstone.photo.provider.PhotoWidgetRectangleProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/photo_rectangle_widget_info" />
+        </receiver>
+
         <activity
             android:name="com.nothing.hearthstone.clock.ui.AnalogClockConfigureActivity"
             android:exported="true" />
@@ -61,6 +83,10 @@
 
         <activity
             android:name="com.nothing.hearthstone.quicklook.QuickLookSettingsActivity"
+            android:exported="true" />
+
+        <activity
+            android:name="com.nothing.hearthstone.photo.ui.RectanglePhotoSettingActivity"
             android:exported="true" />
 
     </application>
