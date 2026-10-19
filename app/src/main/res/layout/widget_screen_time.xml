@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/screen_container" android:background="@drawable/screen_time_bg" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.viewpager2.widget.ViewPager2 android:orientation="vertical" android:id="@id/view_pager" android:clipChildren="true" android:layout_width="match_parent" android:layout_height="match_parent" android:clipToOutline="true" />
+    <com.nothing.cardwidget.NTPageIndicatorDot android:layout_gravity="end|center" android:id="@id/screen_time_page_indicator" android:layout_width="20.0dp" android:layout_height="200.0dp" app:dotAppearBegin="true" app:dotDefaultColor="@color/page_indicator_default_color" app:dotFadeDelay="200" app:dotFadeDots="true" app:dotMargin="@dimen/page_indicator_margin" app:dotOrientation="vertical" app:dotRadius="@dimen/page_indicator_radius" app:dotSelectColor="@color/page_indicator_selected_color" />
+</FrameLayout>

@@ -189,5 +189,31 @@
                 android:resource="@xml/community_widget_info" />
         </receiver>
 
+        <receiver
+            android:name="com.nothing.hearthstone.screentime.provider.ScreenTimeProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/screen_time_widget_info" />
+        </receiver>
+
+        <receiver
+            android:name="com.nothing.hearthstone.screentime.provider.MiddleDurationScreenTimeProvider"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/screen_time_duration_widget_info" />
+        </receiver>
+
+        <activity
+            android:name="com.nothing.hearthstone.screentime.ui.ScreenTimeSettingActivity"
+            android:exported="true" />
+
     </application>
 </manifest>
