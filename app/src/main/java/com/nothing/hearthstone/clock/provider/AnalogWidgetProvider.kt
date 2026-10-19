@@ -58,9 +58,11 @@ class AnalogWidgetProvider : AppWidgetProvider() {
             }
         }
         val views = RemoteViews(context.packageName, layout)
-        val intent = Intent(AlarmClock.ACTION_SHOW_ALARMS).apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK }
+        val clockIntent = Intent(Intent.ACTION_MAIN).setPackage("com.google.android.deskclock")
+        val intent = if (clockIntent.resolveActivity(context.packageManager) != null) clockIntent else Intent(AlarmClock.ACTION_SHOW_ALARMS)
+        intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
         val pi = android.app.PendingIntent.getActivity(context, appWidgetId, intent, android.app.PendingIntent.FLAG_UPDATE_CURRENT or android.app.PendingIntent.FLAG_IMMUTABLE)
-        views.setOnClickPendingIntent(android.R.id.background, pi)
+        views.setOnClickPendingIntent(R.id.analog_clock, pi)
         appWidgetManager.updateAppWidget(appWidgetId, views)
     }
 

@@ -51,7 +51,9 @@ class DigitalWidgetProvider : AppWidgetProvider() {
             else -> R.layout.card_digital_clock_1_by_1
         }
         val views = RemoteViews(context.packageName, layout)
-        val intent = Intent(AlarmClock.ACTION_SHOW_ALARMS).apply { flags = Intent.FLAG_ACTIVITY_NEW_TASK }
+        val clockIntent = Intent(Intent.ACTION_MAIN).setPackage("com.google.android.deskclock")
+        val intent = if (clockIntent.resolveActivity(context.packageManager) != null) clockIntent else Intent(AlarmClock.ACTION_SHOW_ALARMS)
+        intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
         val pi = android.app.PendingIntent.getActivity(context, appWidgetId, intent, android.app.PendingIntent.FLAG_UPDATE_CURRENT or android.app.PendingIntent.FLAG_IMMUTABLE)
         views.setOnClickPendingIntent(R.id.container, pi)
         appWidgetManager.updateAppWidget(appWidgetId, views)
