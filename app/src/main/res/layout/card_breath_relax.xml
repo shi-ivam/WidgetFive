@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:id="@id/fl" android:background="@drawable/screen_time_bg" android:layout_width="172.0dp" android:layout_height="172.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="12.0sp" android:textStyle="normal" android:textColor="@color/breath_card_name_color" android:id="@id/tv_breath_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dp" android:text="@string/breath_text_relax" android:fontFamily="roboto" android:layout_marginStart="15.0dp" android:textFontWeight="300" />
+    <ImageView android:layout_gravity="center" android:orientation="vertical" android:id="@id/iv_breath" android:layout_width="112.0dp" android:layout_height="112.0dp" android:src="@drawable/breath_relax" android:clipToOutline="true" />
+</FrameLayout>

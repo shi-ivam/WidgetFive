@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/screen_time_container" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/iv_expression" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/breath_relax_preview" />
+</FrameLayout>
