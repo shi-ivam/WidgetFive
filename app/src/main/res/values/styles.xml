@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="QuickLookShadowTextStyle">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@color/ql_trans_style_primary_color</item>
+        <item name="android:shadowColor">#8c000000</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.5</item>
+    </style>
+</resources>

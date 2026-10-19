@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.FrameLayout android:layout_gravity="center" android:id="@id/fl" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.widget.FrameLayout android:id="@id/triangle_flip_page" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="@id/page2" android:background="@color/date_date_bg_color" android:layout_width="match_parent" android:layout_height="match_parent">
+            <View android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" />
+            <androidx.viewpager2.widget.ViewPager2 android:orientation="vertical" android:id="@id/view_pager" android:background="@color/date_aod_bg_color" android:layout_width="match_parent" android:layout_height="match_parent" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/page1" android:background="@color/date_date_bg_color" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+            <View android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" />
+            <android.widget.TextView android:textSize="20.0sp" android:textColor="@color/date_date_text_color" android:gravity="end" android:layout_gravity="end" android:id="@id/tv_triangle_day_of_week" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dp" android:layout_weight="400.0" android:layout_marginEnd="16.0dp" android:textFontWeight="400" />
+            <android.widget.TextView android:textSize="128.0sp" android:textColor="@color/date_date_text_color" android:gravity="center_horizontal" android:id="@id/tv_triangle_date" android:layout_width="match_parent" android:layout_height="match_parent" android:textFontWeight="400" />
+        </FrameLayout>
+    </android.widget.FrameLayout>
+</android.widget.FrameLayout>

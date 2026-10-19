@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/ll_ql_trans_weather" android:tag="@string/quick_look_tag" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingHorizontal="12.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextClock android:id="@id/tv_ql_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="THU, 21 FEB" android:textAllCaps="true" android:fontFamily="@font/ndot" android:format12Hour="E, d MMM" android:format24Hour="E, d MMM" android:paddingHorizontal="3.0dp" style="@style/QuickLookShadowTextStyle" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/ll_ql_weather" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingHorizontal="4.0dp">
+        <ImageView android:id="@id/icon_ql_weather" android:visibility="gone" android:layout_width="20.0dp" android:layout_height="20.0dp" android:contentDescription="@string/weather_info" android:layout_marginEnd="10.0dp" />
+        <TextView android:id="@id/tv_ql_weather" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="12* SUNNY" android:fontFamily="@font/ndot" style="@style/QuickLookShadowTextStyle" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/ll_ql_trans_calendar" android:tag="@string/quick_look_tag" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingHorizontal="16.0dp"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:ellipsize="end" android:id="@id/tv_ql_calendar_content" android:layout_width="0.0dp" android:layout_height="wrap_content" android:text="DESIGN MEETING" android:maxLines="1" android:layout_weight="1.0" android:fontFamily="@font/ndot" style="@style/QuickLookShadowTextStyle" />
+        <TextView android:id="@id/tv_countdown_min" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="in 14 min" android:fontFamily="@font/ndot" android:layout_marginStart="8.0px" style="@style/QuickLookShadowTextStyle" />
+    </LinearLayout>
+    <TextView android:ellipsize="end" android:id="@id/tv_ql_calendar_location" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="LONDON DISTRICT" android:maxLines="1" android:fontFamily="@font/ndot" style="@style/QuickLookShadowTextStyle" />
+    <TextView android:id="@id/tv_ql_calendar_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="16:45 - 20:15" android:fontFamily="@font/ndot" style="@style/QuickLookShadowTextStyle" />
+</LinearLayout>
